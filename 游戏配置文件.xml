@@ -1,0 +1,5123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles xmlns="http://www.logitech.com/Cassandra/2010.7/Profile">
+  <profile lock="1" gameid="" name="QT5.7智能版" lastplayeddate="2021-12-09T10:58:28" guid="{D7629BFA-C905-471B-B366-D5237DEFE218}" gpasupported="0" launchable="1" gkeysdk="0">
+    <description></description>
+    <target path="E:\STEAMLIBRARY\STEAMAPPS\COMMON\PUBG\TSLGAME\BINARIES\WIN64\EXECPUBG.EXE"/>
+    <target path="E:\STEAMLIBRARY\STEAMAPPS\COMMON\PUBG\TSLGAME\BINARIES\WIN64\TSLGAME.EXE"/>
+    <target path="E:\STEAMLIBRARY\STEAMAPPS\COMMON\PUBG\TSLGAME\BINARIES\WIN64\TSLGAME_BE.EXE"/>
+    <target path="E:\STEAMLIBRARY\STEAMAPPS\COMMON\PUBG\TSLGAME\BINARIES\WIN64\TSLGAME_UC.EXE"/>
+    <target path="E:\STEAMLIBRARY\STEAMAPPS\COMMON\PUBG\TSLGAME\BINARIES\WIN64\TSLGAME_ZK.EXE"/>
+    <target path="E:\STEAMLIBRARY\STEAMAPPS\COMMON\PUBG\TSLGAME\BINARIES\WIN64\UCSVC.EXE"/>
+    <signature value="" executable="" name="" key=""/>
+    <macros>
+      <macro original="true" color="4278246655" name="左键单击" guid="{01E20D9C-6574-4BBA-8D0D-E25BE4027F2F}" hidden="true">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="leftclick"/>
+        </mousefunction>
+      </macro>
+      <macro original="true" color="4278246655" name="右键单击" guid="{94423986-29AA-4706-9C10-FA4A4766E852}" hidden="true">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="rightclick"/>
+        </mousefunction>
+      </macro>
+      <macro original="true" color="4278246655" name="单击中键" guid="{81DDE469-DCE6-43B0-8E2E-A739E910B35B}" hidden="true">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="middleclick"/>
+        </mousefunction>
+      </macro>
+      <macro original="true" color="4278246655" name="返回" guid="{D2F7FA32-51D4-4245-A623-29E47014CFC1}" hidden="true">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="back"/>
+        </mousefunction>
+      </macro>
+      <macro original="true" color="4278246655" name="前进" guid="{2377C3C1-8C55-4879-AACE-987FCB6FF9B5}" hidden="true">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="forward"/>
+        </mousefunction>
+      </macro>
+      <macro original="true" color="4278246655" devicecategory="Logitech.Gaming.Mouse" name="默认 DPI" guid="{CAB40FE5-DDB3-4761-8798-710674CB6FF2}" hidden="true">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="defaultdpi"/>
+        </mousefunction>
+      </macro>
+      <macro original="true" color="4278246655" devicecategory="Logitech.Gaming.Mouse" name="提高 DPI" guid="{850ADF32-65FD-4416-8045-FEC9EDFC1B7F}" hidden="true">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpiup"/>
+        </mousefunction>
+      </macro>
+      <macro original="true" color="4278246655" devicecategory="Logitech.Gaming.Mouse" name="降低 DPI" guid="{1F53C9B1-4BE6-47CC-AF14-7037F72E643E}" hidden="true">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpidown"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" name="F1" guid="{67137222-E341-435D-A465-B59804586A9C}" hidden="true">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro color="4278246655" name="F2" guid="{C137C9C9-4803-4842-88F4-B793853B2031}" hidden="true">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro color="4278246655" name="F3" guid="{5D85D982-10F0-4562-A6F7-841ECC6699FD}" hidden="true">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro color="4278246655" name="F4" guid="{C3B06F2E-C7CD-467C-8CEC-4EBED2C51293}" hidden="true">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro color="4278246655" name="F5" guid="{35AE0510-3F51-48A4-8E07-9A104A73C323}" hidden="true">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro color="4278246655" name="F6" guid="{302F6477-4756-42E1-ACD9-0F1832F308BD}" hidden="true">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro color="4278246655" name="F7" guid="{C96459AC-E31D-4511-B834-B5AAEAFA1463}" hidden="true">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro color="4278246655" name="F8" guid="{24ABDD84-51E3-4AAD-AD85-A40B2001C8F0}" hidden="true">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro color="4278246655" name="F9" guid="{8B717098-FA7B-4BD2-8193-CDC7594706C8}" hidden="true">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro color="4278246655" name="F10" guid="{BC6CEB03-D4A5-469B-921C-3F23DB92538A}" hidden="true">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro color="4278246655" name="F11" guid="{E015E7EC-38E0-45D5-B033-32C75A2FAEB5}" hidden="true">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro color="4278246655" name="F12" guid="{A1C90F8E-8713-436E-B403-B2141BDE5692}" hidden="true">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro color="4278246655" name="前进" guid="{AFF48BD1-6B52-4EE4-BD0E-DB7C0FDD9684}" backupguid="{E2C77212-7AE1-457A-B624-8B3A56D82E72}" hidden="false">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="forward"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" name="单击中键" guid="{C637C118-46B7-4F1F-836D-6DC1D2146BCB}" backupguid="{E8C43EB7-3533-48B0-80B9-59206CAA9D9A}" hidden="false">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="middleclick"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" name="右键单击" guid="{B9D42552-7CCB-4C0D-9315-FE6D81BEAAE8}" backupguid="{C3D4954B-9F24-4814-B361-004558DD7496}" hidden="false">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="rightclick"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" name="左键单击" guid="{8297A627-157B-45CF-9BE6-7570C5DE95F7}" backupguid="{6F864A50-54E7-4992-B908-909134BC7B6A}" hidden="false">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="leftclick"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" devicecategory="Logitech.Gaming.Mouse" name="提高 DPI" guid="{9847893F-B7C5-4449-8768-83D8E1EFE590}" backupguid="{736A12BC-62E5-43D9-BD30-8629A4A0B818}" hidden="false">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpiup"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" name="返回" guid="{AF654222-63E3-4D05-ABA8-8AC5CB9A812D}" backupguid="{A1FD4898-74B8-4931-9998-849A16304670}" hidden="false">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="back"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" devicecategory="Logitech.Gaming.Mouse" name="降低 DPI" guid="{9D936A46-9F46-4BD7-A960-975728ECFFB5}" backupguid="{72EAD736-B36B-4438-88DD-B77E2FAA42AA}" hidden="false">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpidown"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" devicecategory="Logitech.Gaming.Mouse" name="默认 DPI" guid="{10DBAF43-E810-4F52-ADD0-5E6692170BF0}" backupguid="{3E00445D-3DF5-4E5C-B83F-64AA35FF129A}" hidden="false">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="defaultdpi"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" name="右键单击" guid="{7FD491AA-F25A-451A-AA21-1816638DA710}" hidden="false">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="rightclick"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" name="左键单击" guid="{602D31D5-0920-49DD-B257-82D202BFB9F6}" hidden="false">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="leftclick"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" name="单击中键" guid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" hidden="false">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="middleclick"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" name="返回" guid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" hidden="false">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="back"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" name="前进" guid="{8B13562D-60F2-460F-9588-8C84168C81BC}" hidden="false">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="forward"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" devicecategory="Logitech.Gaming.Mouse" name="降低 DPI" guid="{12C9716B-4D7A-4F6F-AF20-A0369219119A}" hidden="false">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpidown"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" name="向右滚动" guid="{DF8F4F2D-8891-401B-997C-0EAFF539BBF8}" hidden="false">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="scrollright"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" name="向左滚动" guid="{B02EC3A0-596A-43DB-8F47-105D2F2EAC7F}" hidden="false">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="scrollleft"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" repeatdelay="50" name="0" repeatmode="toggle" guid="{68A1C0B2-2996-4992-9CC5-3285AC8E9740}" hidden="false">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="NUM0"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="G 切换" guid="{1E41ED28-DC5A-4CE3-A217-0176C8626ED1}" hidden="false">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="gshift"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" devicecategory="Logitech.Gaming.Mouse" name="切换 DPI" guid="{D22C9714-CBA7-45BD-A9FA-C5C5E847D03A}" hidden="true">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpishift"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" name="F1" guid="{F09D8F2E-4D88-473E-870F-4603A97D2257}" hidden="false">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F1"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="F2" guid="{F3AC6632-31AD-434D-A442-B4F480E32BE0}" hidden="false">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F2"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="F3" guid="{D6821B82-4A3F-4402-8298-F1292F307073}" hidden="false">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F3"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="F4" guid="{D1D33F65-C7C4-4D97-9CF0-EF6593D9E7E5}" hidden="false">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F4"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" name="F5" guid="{F96C09BA-99F3-4997-8345-A6DE54949C37}" hidden="false">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F5"/>
+        </keystroke>
+      </macro>
+    </macros>
+    <assignments devicecategory="Logitech.Gaming.Function.Keyboard">
+      <assignment original="false" backup="false" contextid="G1" shiftstate="1" macroguid="{67137222-E341-435D-A465-B59804586A9C}"/>
+      <assignment original="false" backup="false" contextid="G1" shiftstate="4" macroguid="{67137222-E341-435D-A465-B59804586A9C}"/>
+      <assignment original="false" backup="false" contextid="G2" shiftstate="1" macroguid="{C137C9C9-4803-4842-88F4-B793853B2031}"/>
+      <assignment original="false" backup="false" contextid="G2" shiftstate="4" macroguid="{C137C9C9-4803-4842-88F4-B793853B2031}"/>
+      <assignment original="false" backup="false" contextid="G3" shiftstate="1" macroguid="{5D85D982-10F0-4562-A6F7-841ECC6699FD}"/>
+      <assignment original="false" backup="false" contextid="G3" shiftstate="4" macroguid="{5D85D982-10F0-4562-A6F7-841ECC6699FD}"/>
+      <assignment original="false" backup="false" contextid="G4" shiftstate="1" macroguid="{C3B06F2E-C7CD-467C-8CEC-4EBED2C51293}"/>
+      <assignment original="false" backup="false" contextid="G4" shiftstate="4" macroguid="{C3B06F2E-C7CD-467C-8CEC-4EBED2C51293}"/>
+      <assignment original="false" backup="false" contextid="G5" shiftstate="1" macroguid="{35AE0510-3F51-48A4-8E07-9A104A73C323}"/>
+      <assignment original="false" backup="false" contextid="G5" shiftstate="4" macroguid="{35AE0510-3F51-48A4-8E07-9A104A73C323}"/>
+      <assignment original="false" backup="false" contextid="G6" shiftstate="1" macroguid="{302F6477-4756-42E1-ACD9-0F1832F308BD}"/>
+      <assignment original="false" backup="false" contextid="G6" shiftstate="4" macroguid="{302F6477-4756-42E1-ACD9-0F1832F308BD}"/>
+      <assignment original="false" backup="false" contextid="G7" shiftstate="1" macroguid="{C96459AC-E31D-4511-B834-B5AAEAFA1463}"/>
+      <assignment original="false" backup="false" contextid="G7" shiftstate="4" macroguid="{C96459AC-E31D-4511-B834-B5AAEAFA1463}"/>
+      <assignment original="false" backup="false" contextid="G8" shiftstate="1" macroguid="{24ABDD84-51E3-4AAD-AD85-A40B2001C8F0}"/>
+      <assignment original="false" backup="false" contextid="G8" shiftstate="4" macroguid="{24ABDD84-51E3-4AAD-AD85-A40B2001C8F0}"/>
+      <assignment original="false" backup="false" contextid="G9" shiftstate="1" macroguid="{8B717098-FA7B-4BD2-8193-CDC7594706C8}"/>
+      <assignment original="false" backup="false" contextid="G9" shiftstate="4" macroguid="{8B717098-FA7B-4BD2-8193-CDC7594706C8}"/>
+      <assignment original="false" backup="false" contextid="G10" shiftstate="1" macroguid="{BC6CEB03-D4A5-469B-921C-3F23DB92538A}"/>
+      <assignment original="false" backup="false" contextid="G10" shiftstate="4" macroguid="{BC6CEB03-D4A5-469B-921C-3F23DB92538A}"/>
+      <assignment original="false" backup="false" contextid="G11" shiftstate="1" macroguid="{E015E7EC-38E0-45D5-B033-32C75A2FAEB5}"/>
+      <assignment original="false" backup="false" contextid="G11" shiftstate="4" macroguid="{E015E7EC-38E0-45D5-B033-32C75A2FAEB5}"/>
+      <assignment original="false" backup="false" contextid="G12" shiftstate="1" macroguid="{A1C90F8E-8713-436E-B403-B2141BDE5692}"/>
+      <assignment original="false" backup="false" contextid="G12" shiftstate="4" macroguid="{A1C90F8E-8713-436E-B403-B2141BDE5692}"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.Mouse">
+      <assignment original="false" backup="true" contextid="Button3" shiftstate="1" macroguid="{E8C43EB7-3533-48B0-80B9-59206CAA9D9A}"/>
+      <assignment original="false" backup="true" contextid="Button4" shiftstate="1" macroguid="{A1FD4898-74B8-4931-9998-849A16304670}"/>
+      <assignment original="false" backup="true" contextid="Button5" shiftstate="1" macroguid="{E2C77212-7AE1-457A-B624-8B3A56D82E72}"/>
+      <assignment original="false" backup="true" contextid="Button6" shiftstate="1" macroguid="{3E00445D-3DF5-4E5C-B83F-64AA35FF129A}"/>
+      <assignment original="false" backup="true" contextid="Button7" shiftstate="1" macroguid="{736A12BC-62E5-43D9-BD30-8629A4A0B818}"/>
+      <assignment original="false" backup="true" contextid="Button8" shiftstate="1" macroguid="{72EAD736-B36B-4438-88DD-B77E2FAA42AA}"/>
+      <assignment original="false" backup="true" contextid="Button2" shiftstate="1" macroguid="{C3D4954B-9F24-4814-B361-004558DD7496}"/>
+      <assignment original="false" backup="false" contextid="Button2" shiftstate="1" macroguid="{94423986-29AA-4706-9C10-FA4A4766E852}"/>
+      <assignment original="false" backup="true" contextid="Button1" shiftstate="1" macroguid="{6F864A50-54E7-4992-B908-909134BC7B6A}"/>
+      <assignment original="false" backup="false" contextid="Button1" shiftstate="1" macroguid="{01E20D9C-6574-4BBA-8D0D-E25BE4027F2F}"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.Mouse.C08B">
+      <assignment original="false" backup="false" contextid="Button2" shiftstate="1" macroguid="{94423986-29AA-4706-9C10-FA4A4766E852}"/>
+      <assignment original="false" backup="false" contextid="Button2" shiftstate="4" macroguid="{94423986-29AA-4706-9C10-FA4A4766E852}"/>
+      <assignment original="false" backup="false" contextid="Button1" shiftstate="1" macroguid="{01E20D9C-6574-4BBA-8D0D-E25BE4027F2F}"/>
+      <assignment original="false" backup="false" contextid="Button1" shiftstate="4" macroguid="{01E20D9C-6574-4BBA-8D0D-E25BE4027F2F}"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.Mouse.G403">
+      <assignment original="false" backup="false" contextid="Button2" shiftstate="1" macroguid="{94423986-29AA-4706-9C10-FA4A4766E852}"/>
+      <assignment original="false" backup="false" contextid="Button2" shiftstate="4" macroguid="{94423986-29AA-4706-9C10-FA4A4766E852}"/>
+      <assignment original="false" backup="false" contextid="Button1" shiftstate="1" macroguid="{01E20D9C-6574-4BBA-8D0D-E25BE4027F2F}"/>
+      <assignment original="false" backup="false" contextid="Button1" shiftstate="4" macroguid="{01E20D9C-6574-4BBA-8D0D-E25BE4027F2F}"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.Mouse.G502">
+      <assignment original="false" backup="false" contextid="Button1" shiftstate="1" macroguid="{602D31D5-0920-49DD-B257-82D202BFB9F6}"/>
+      <assignment original="false" backup="false" contextid="Button2" shiftstate="1" macroguid="{7FD491AA-F25A-451A-AA21-1816638DA710}"/>
+      <assignment original="false" backup="false" contextid="Button3" shiftstate="1" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}"/>
+      <assignment original="false" backup="false" contextid="Button4" shiftstate="1" macroguid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}"/>
+      <assignment original="false" backup="false" contextid="Button10" shiftstate="1" macroguid="{DF8F4F2D-8891-401B-997C-0EAFF539BBF8}"/>
+      <assignment original="false" backup="false" contextid="Button11" shiftstate="1" macroguid="{B02EC3A0-596A-43DB-8F47-105D2F2EAC7F}"/>
+      <assignment original="false" backup="false" contextid="Button1" shiftstate="4" macroguid="{602D31D5-0920-49DD-B257-82D202BFB9F6}"/>
+      <assignment original="false" backup="false" contextid="Button2" shiftstate="4" macroguid="{7FD491AA-F25A-451A-AA21-1816638DA710}"/>
+      <assignment original="false" backup="false" contextid="Button3" shiftstate="4" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}"/>
+      <assignment original="false" backup="false" contextid="Button4" shiftstate="4" macroguid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}"/>
+      <assignment original="false" backup="false" contextid="Button5" shiftstate="4" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}"/>
+      <assignment original="false" backup="false" contextid="Button7" shiftstate="4" macroguid="{12C9716B-4D7A-4F6F-AF20-A0369219119A}"/>
+      <assignment original="false" backup="false" contextid="Button10" shiftstate="4" macroguid="{DF8F4F2D-8891-401B-997C-0EAFF539BBF8}"/>
+      <assignment original="false" backup="false" contextid="Button11" shiftstate="4" macroguid="{B02EC3A0-596A-43DB-8F47-105D2F2EAC7F}"/>
+      <assignment original="false" backup="false" contextid="Button8" shiftstate="4" macroguid="{850ADF32-65FD-4416-8045-FEC9EDFC1B7F}"/>
+      <assignment original="false" backup="false" contextid="Button6" shiftstate="1" macroguid="{1E41ED28-DC5A-4CE3-A217-0176C8626ED1}"/>
+      <assignment original="false" backup="false" contextid="Button6" shiftstate="4" macroguid="{1E41ED28-DC5A-4CE3-A217-0176C8626ED1}"/>
+      <assignment original="false" backup="false" contextid="Button7" shiftstate="1" macroguid="{F3AC6632-31AD-434D-A442-B4F480E32BE0}"/>
+      <assignment original="false" backup="false" contextid="Button8" shiftstate="1" macroguid="{F09D8F2E-4D88-473E-870F-4603A97D2257}"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.Mouse.G502RGB">
+      <assignment original="false" backup="false" contextid="Button2" shiftstate="1" macroguid="{94423986-29AA-4706-9C10-FA4A4766E852}"/>
+      <assignment original="false" backup="false" contextid="Button2" shiftstate="4" macroguid="{94423986-29AA-4706-9C10-FA4A4766E852}"/>
+      <assignment original="false" backup="false" contextid="Button1" shiftstate="1" macroguid="{01E20D9C-6574-4BBA-8D0D-E25BE4027F2F}"/>
+      <assignment original="false" backup="false" contextid="Button1" shiftstate="4" macroguid="{01E20D9C-6574-4BBA-8D0D-E25BE4027F2F}"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.Mouse.G900">
+      <assignment original="false" backup="false" contextid="Button2" shiftstate="1" macroguid="{94423986-29AA-4706-9C10-FA4A4766E852}"/>
+      <assignment original="false" backup="false" contextid="Button2" shiftstate="4" macroguid="{94423986-29AA-4706-9C10-FA4A4766E852}"/>
+      <assignment original="false" backup="false" contextid="Button1" shiftstate="1" macroguid="{01E20D9C-6574-4BBA-8D0D-E25BE4027F2F}"/>
+      <assignment original="false" backup="false" contextid="Button1" shiftstate="4" macroguid="{01E20D9C-6574-4BBA-8D0D-E25BE4027F2F}"/>
+    </assignments>
+    <pointers>
+      <pointer devicemodel="Logitech.Gaming.Mouse.G502RGB">
+        <mode shiftstate="1">
+          <reportrate rate="1000"/>
+          <powermode value="2"/>
+          <dpitable defaultindex="1" syncxy="1" shiftindex="0">
+            <dpi x="1200" y="1200" enabled="1"/>
+            <dpi x="2400" y="2400" enabled="1"/>
+            <dpi x="3200" y="3200" enabled="1"/>
+            <dpi x="6400" y="6400" enabled="1"/>
+          </dpitable>
+          <movement acceleration="0" speed="-1"/>
+        </mode>
+      </pointer>
+      <pointer devicemodel="Logitech.Gaming.Mouse.G703">
+        <mode shiftstate="1">
+          <reportrate rate="1000"/>
+          <powermode value="2"/>
+          <dpitable defaultindex="0" syncxy="1" shiftindex="0">
+            <dpi x="1800" y="1800" enabled="1"/>
+            <dpi x="6950" y="7000" enabled="0"/>
+            <dpi x="1600" y="1600" enabled="0"/>
+            <dpi x="3200" y="3200" enabled="0"/>
+          </dpitable>
+          <movement acceleration="0" speed="-1"/>
+        </mode>
+      </pointer>
+      <pointer devicemodel="Logitech.Gaming.Mouse.C08B">
+        <mode shiftstate="1">
+          <reportrate rate="1000"/>
+          <powermode value="2"/>
+          <dpitable defaultindex="1" syncxy="1" shiftindex="0">
+            <dpi x="1200" y="1200" enabled="1"/>
+            <dpi x="2400" y="2400" enabled="1"/>
+            <dpi x="3200" y="3200" enabled="1"/>
+            <dpi x="6400" y="6400" enabled="1"/>
+          </dpitable>
+          <movement acceleration="0" speed="-1"/>
+        </mode>
+      </pointer>
+      <pointer devicemodel="Logitech.Gaming.Mouse.G903">
+        <mode shiftstate="1">
+          <reportrate rate="1000"/>
+          <powermode value="2"/>
+          <dpitable defaultindex="0" syncxy="1" shiftindex="0">
+            <dpi x="1300" y="1300" enabled="1"/>
+          </dpitable>
+          <movement acceleration="0" speed="-1"/>
+        </mode>
+      </pointer>
+      <pointer devicemodel="Logitech.Gaming.Mouse.G502">
+        <mode shiftstate="1">
+          <reportrate rate="1000"/>
+          <powermode value="2"/>
+          <dpitable defaultindex="0" syncxy="1" shiftindex="0">
+            <dpi x="1000" y="1000" enabled="1"/>
+          </dpitable>
+          <movement acceleration="0" speed="-1"/>
+        </mode>
+      </pointer>
+    </pointers>
+    <backlight devicemodel="Logitech.Gaming.Mouse.G400s">
+      <mode color="#000000" shiftstate="1"/>
+      <mode color="#000000" shiftstate="2"/>
+      <mode color="#000000" shiftstate="3"/>
+    </backlight>
+    <backlight devicemodel="Logitech.Gaming.Mouse.G502RGB">
+      <mode color="#000000" shiftstate="1"/>
+      <mode color="#000000" shiftstate="2"/>
+      <mode color="#000000" shiftstate="3"/>
+    </backlight>
+    <backlight devicemodel="Logitech.Gaming.Mouse.G502">
+      <mode color="#000000" shiftstate="1"/>
+      <mode color="#000000" shiftstate="2"/>
+      <mode color="#000000" shiftstate="3"/>
+    </backlight>
+    <script>--枪械排行版 最稳的就是M416
+--枪械排行版 最稳的就是M416
+--枪械排行版 最稳的就是M416
+--枪械排行版 最稳的就是M416
+--枪械排行版 最稳的就是M416
+--枪械排行版 最稳的就是M416
+
+--满配模式 补偿 垂直 扩容 屁股
+
+		
+--								压枪按键启用区（罗技鼠标侧键）
+--————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+      akm_QT_Key = 0
+   vector_QT_Key = 0 	     --维克多
+       m4_QT_Key = 5
+      ump_QT_Key = 0
+     scar_QT_Key = 0
+      qbz_QT_Key = 0
+     m762_QT_Key = 0
+     g36c_QT_Key = 0
+    gpp19_QT_Key = 0
+      m16_QT_Key = 0		--M16宏为连点宏，强烈不推荐使用，使用者后果自负。
+
+	
+       GB_QT_Key = 6		--一键关闭宏
+
+
+						
+--———————————————————————————————————————————————————————————————————————————————————————————————————————————— 
+  --四倍按键，可设可不设，不设可以用大写代替，开对应宏，开大写灯，就是对应的四倍扫射，如设置了按键，开启了就是对应的四倍  
+  --一般只设置一个M4四倍就够了  
+
+    m4_x4_QT_Key = 0
+
+--———————————————————————————————————————————————————————————————————————————————————————————————————————————— 
+ --								压枪按键启用区（罗技键盘g按键开关 不是罗技G系列键盘无法用 1=F1 以此类推）
+
+     akm__QT = 1
+    m762__QT = 2
+  vector__QT = 3
+      m4__QT = 4
+     ump__QT = 5
+    scar__QT = 6
+     qbz__QT = 7
+    g36c__QT = 8
+   gpp19__QT = 9
+   close__QT = 10   --关闭宏
+
+
+     m16__QT = 0      --M16宏，不推荐设置
+
+
+
+
+
+--————————————————————————————————————————————————————————————————————————————————————————————————————————————    
+--								压枪按键启用区（按住键盘左下角的ctrl+鼠标侧键激活 可改键lctrl lshift lalt）
+  akm_QT = 0 
+ m762_QT = 0
+  m16_QT = 0 
+   m4_QT = 0 
+  ump_QT = 0
+ scar_QT = 0
+  qbz_QT = 0
+ g36c_QT = 0
+gpp19_QT = 0
+vector_QT = 0
+
+
+controlkey="lctrl"
+
+
+--———————————————————————————————————————————————————————————————————————————————————————————————————————————— 
+--                                              功能按键
+
+
+liandian_QT_Key = 0      	--连点按键（只连点）
+
+DCSQ_QT_Key = 0			--快速拾取
+
+targeting_key = 0					--腰射改键（快速开镜，腰射改键使用，不修改开镜方式请不要调整）
+
+
+--———————————————————————————————————————————————————————————————————————————————————————————————————————————— 
+--                   下面是功能开关，不需要分配按键，打开功能改成 true 关闭功能改成 false
+
+
+yzcakf= true     --长按右键再按左键才有压枪效果，游戏内需要设置快速开镜（长按右键开镜）
+
+
+doubleclick = false				--第二次按侧键关闭宏开关
+
+
+allon = true 					--满配模式功能开关
+
+
+allmodereversal = true		--满配模式 反转（反转的意思都不懂的请百度）
+
+
+fouron = false					--4倍镜模式功能开关
+
+
+foutmodereversal = false		--4倍默认全自动模式 反转（反转的意思都不懂的请百度）
+
+
+--———————————————————————————————————————————————————————————————————————————————————————————————————————————— 
+--                 三个键盘灯改键，只能交换，不能删除  capslock    numlock   scrolllock
+
+
+fourmodekey = "capslock"
+allmodekey = "numlock"
+reminderlightkey = "scrolllock"
+
+
+--———————————————————————————————————————————————————————————————————————————————————————————————————————————— 
+
+
+
+--按住左ctrl暂停压枪，l 是左的意思（l是小写的L）可改键 lctrl lshift lalt    默认按住键盘左下角ctrl暂停关宏
+--如想取消，请把小面的lctrl   改成    rctrl
+pausekey = "rctrl"
+
+
+--———————————————————————————————————————————————————————————————————————————————————————————————————————————— 
+
+
+
+--                          系数专区
+
+
+-----------M4枪系数------------
+ZM4=1     --------------------单把武器总系数
+LPM4=1    --------------------单倍裸配不屏息系数
+MPM4=1    --------------------单倍满配不屏息系数
+PM4 =1    --------------------单倍裸配屏息系数
+PMM4=1    --------------------单倍满配屏息系数
+M4s =1    --------------------四倍裸配全自动系数
+MM4s=1    --------------------四倍满配全自动系数
+
+-----------AKM枪系数------------
+ZAKM=1    --------------------单把武器总系数
+LPAKM=1   --------------------单倍裸配不屏息系数
+MPAKM=1   --------------------单倍满配不屏息系数
+PAKM =1   --------------------单倍裸配屏息系数
+PMAKM=1   --------------------单倍满配屏息系数
+AKMs =1   --------------------四倍裸配全自动系数
+MAKMs=1   --------------------四倍满配全自动系数
+
+-----------M762枪系数------------
+ZM762=1    -------------------单把武器总系数
+LPM762=1   -------------------单倍裸配不屏息系数
+MPM762=1   -------------------单倍满配不屏息系数
+PM762 =1   -------------------单倍裸配屏息系数
+PMM762=1   -------------------单倍满配屏息系数
+M762s =1   -------------------四倍裸配全自动系数
+MM762s=1   -------------------四倍满配全自动系数
+ 
+-----------QBZ枪系数------------
+ZQBZ=1    --------------------单把武器总系数
+LPQBZ=1   --------------------单倍裸配不屏息系数
+MPQBZ=1   --------------------单倍满配不屏息系数
+PQBZ =1   --------------------单倍裸配屏息系数
+PMQBZ=1   --------------------单倍满配屏息系数
+QBZs =1   --------------------四倍裸配全自动系数
+MQBZs=1   --------------------四倍满配全自动系数
+
+-----------SAR枪系数------------
+ZSAR=1    --------------------单把武器总系数
+LPSAR=1   --------------------单倍裸配不屏息系数
+MPSAR=1   --------------------单倍满配不屏息系数
+PSAR =1   --------------------单倍裸配屏息系数
+PMSAR=1   --------------------单倍满配屏息系数
+SARs =1   --------------------四倍裸配全自动系数
+MSARs=1   --------------------四倍满配全自动系数
+ 
+-----------M16枪系数------------
+ZM16=1    --------------------单把武器总系数
+LPM16=1   --------------------单倍裸配不屏息系数
+MPM16=1   --------------------单倍满配不屏息系数
+PM16 =1   --------------------单倍裸配屏息系数
+PMM16=1   --------------------单倍满配屏息系数
+M16s =1   --------------------四倍裸配全自动系数
+MM16s=1   --------------------四倍满配全自动系数
+
+-----------G36C枪系数------------
+ZG36C=1   --------------------单把武器总系数
+LPG36C=1  --------------------单倍裸配不屏息系数
+MPG36C=1  --------------------单倍满配不屏息系数
+PG36C =1  --------------------单倍裸配屏息系数
+PMG36C=1  --------------------单倍满配屏息系数
+G36Cs =1  --------------------四倍裸配全自动系数
+MG36Cs=1  --------------------四倍满配全自动系数
+
+-----------VECTOR枪系数-----------
+ZVECTOR=1     --------------------单把武器总系数
+LPVECTOR=1    --------------------单倍裸配不屏息系数
+MPVECTOR=1    --------------------单倍满配不屏息系数
+PVECTOR =1    --------------------单倍裸配屏息系数
+PMVECTOR=1    --------------------单倍满配屏息系数
+VECTORs =1    --------------------四倍裸配全自动系数
+MVECTORs=1    --------------------四倍满配全自动系数
+
+-----------UMP枪系数--------------
+ZUMP=1     --------------------单把武器总系数
+LPUMP=1    --------------------单倍裸配不屏息系数
+MPUMP=1    --------------------单倍满配不屏息系数
+PUMP =1    --------------------单倍裸配屏息系数
+PMUMP=1    --------------------单倍满配屏息系数
+UMPs =1    --------------------四倍裸配全自动系数
+MUMPs=1    --------------------四倍满配全自动系数
+
+-----------PP19枪系数------------
+ZGPP19=1     --------------------单把武器总系数
+LPGPP19=1    --------------------单倍裸配不屏息系数
+MPGPP19=1    --------------------单倍满配不屏息系数
+PGPP19 =1    --------------------单倍裸配屏息系数
+PMGPP19=1    --------------------单倍满配屏息系数
+GPP19s =1    --------------------四倍裸配全自动系数
+MGPP19s=1    --------------------四倍满配全自动系数
+
+
+--------------------------------------------------------------------------------------------------
+
+
+shoulei_QT_Key = 0					-- 一键手雷，按住保持，松开丢出去
+ShouLei_Yongwan_QT_Key = "1"		--用完一键手雷切回的枪（1是主武器1，2是主武器2）
+
+
+
+
+
+--4倍镜模式按住....单发变连发，l 是左的意思（l是小写的L）可改键 lctrl lshift lalt
+fourautokey = "rshift"
+
+--自动换弹开关
+auto_reloading = false 
+
+--智能识别腰射开关
+targetingmode = false
+
+
+--4倍镜单点力度
+
+m16x4=50 
+m762x4=52 
+akmx4=50 
+scarx4=50 
+m4x4=55
+qbzx4=50 
+g36cx4=50
+vectorx4=50
+umpx4=50
+gpp19x4=50
+augx4=50
+grozax4=50
+
+
+--提示灯功能开关
+lighton = true
+
+move=40 
+moveup=40 
+on= true 
+
+
+l4=3.2
+M16she=110
+m16ofclicktime=60
+AKMshe=80
+M4she=70
+G36Cshe=70
+SARshe=85
+QBZshe=80
+M762she=70
+VECTORshe=58
+UMPshe=85
+GPP19she=84
+AUGshe=70
+GROZAshe=70
+
+
+ M16yb = {24,17,23,25,28,29,31,31,31,31,31,31,31,31,31,31,30.6} 
+ M16yb_test = 1
+ M16byb = {24,17,23,25,28,28,28,29,29,29,29,29,29.8}  
+ M16byb_test = 1.3
+ mpM16yb = {24,15,17,21,26,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25.5} 
+ mpM16yb_test =1
+ mpM16byb ={24,15,17,21,23,23,24,24,24,24,24,24,24,24,24,24,24,24,24,25}  
+ mpM16byb_test = 1.3
+ M16ybx4=	{24,17,23,25,28,29,30,30,29.8} 
+ M16ybx4_test=1
+ mpM16ybx4 = {27,13,13,31,24,25,26,26,25,26,26,26.8}
+ mpM16ybx4_test=1
+
+
+
+ AKMyb={33,24,24,29,29,32,34,36,36,43,43,43,43,45,45,46,46,46,47,47,47,47,46,46,46,47}
+ AKMyb_test=1
+ AKMbyb={33,24,24,29,29,32,34,36,36,42,42,44,44,46,46,46,46,46,46,46,46,46,46,46,47} 
+ AKMbyb_test=1.36
+ mpAKMyb={31,20,21,23,23,26,26,28,28,30,31,34,34,35,35,35,35,36,36,36,36,36.5,}
+ mpAKMyb_test=1
+ mpAKMbyb={31,20,20,23,23,26,26,28,28,31,31,34,34,34,34,34,35,35,35,35,35,36.2} 
+ mpAKMbyb_test=1.36
+ AKMybx4={37,27,26,32,33,33,38,38,42,42,46,46,46,51,51,51,51,51,51,51,52} 
+ AKMybx4_test=1
+ mpAKMybx4={33,20,19,26,27,27,29,29,29,34,34,36,36,36,37,37,38,38,38,41.4}
+ mpAKMybx4_test=1
+
+
+
+ M762yb={36,23,23,33,33,46,46,51,51,53,57,57,62}
+ M762yb_test=1
+ M762byb={36,23,23,33,33,46,46,51,51,53,57,62}  
+ M762byb_test=1.36
+ mpM762yb = {24,17,17,22,22,25,25,32,32,35,35,36,36,38,38,39,39,39,39,40,40,38}
+ mpM762yb_test=1
+ mpM762byb= {24,17,17,22,22,25,25,32,32,35,35,36,36,38,38,39,39,39,39,39,39,38}
+ mpM762byb_test=1.36
+ M762ybx4 = {36,24,24,39,39,46,46,63,63,64,64,64,64,68,68,68,68,68,68,68,68,68,68,68,68,68,67.8}
+ M762ybx4_test=1
+ mpM762ybx4= {24,17,17,24,25,30,30,31,34,34,34,40,40,40,40,40,40,40,43,40.5}
+ mpM762ybx4_test=1
+ 
+
+
+ M4yb ={30,18,18,25,25,31}
+ M4yb_test=1
+ M4byb ={30,18,18,25,25,31,32,32,33,33,33,33,33,36,36,42,42,42,42,41.5}
+ M4byb_test=1.36
+ mpM4yb={21,10,15,15,21,21,21,21,21,22,22,22,22,22,22,22,22,22,22,22,22,22,24.1}
+ mpM4yb_test=1
+ mpM4byb={21,10,15,15,21,21,21,22,22,22,22,22,22,22,22,22,22,22,22,23,24}
+ mpM4byb_test=1.36
+ M4ybx4 ={31,19,16,30,30,33,33,35,35,37,37,38,38,38,40,44,44,44,45,45,45.9,45.9,45.9,45.9,45.9,45.9,45.9,45.9,45.9,45.9,45.9,45.9,45.9,45.9,45.9,45.9,45.9,46}
+ M4ybx4_test=1
+ mpM4ybx4={18,10,10,19,19,22,22,25,24,24,24,24,24,24,24,24,24.4,24.4,24.4,24.4,24.4,24.4,24.4,24.4,24.4,24.4,24.4,24.4,24.5}
+ mpM4ybx4_test=1
+
+
+
+ UMPyb = {18,18,18,20,20,27,27,29,29,29,29,29,29,30,30,30,32.4}
+ UMPyb_test= 1
+ UMPbyb = {18,18,18,20,20,27,27,29,29,29,29,29,29,30,30,32.4}
+ UMPbyb_test=1.23
+ mpUMPyb= {12,11,11,15,15,17,17,17,17,17,17,18,18,18,18,18,18,18.8,18.8,18.8,18.8,18.8,19}
+ mpUMPyb_test=1
+ mpUMPbyb= {12,11,11,15,15,17,17,17,17,17,17,18,18,18,18,18,18,18,18,18,18,18,18,19}
+ mpUMPbyb_test=1.26
+ UMPybx4 = {20,20,19,22,23,27,31,31,31,31,31,31,31,31,32.3}
+ UMPybx4_test=1
+ mpUMPybx4= {12,10,12,12,15,15,18,20,20,20,20,20,20,21,21,21,21,21,21,21,21,21,21,21.2}
+ mpUMPybx4_test=1
+
+
+
+ GPP19yb = {22,17,17,20,26,26,30,30,30,30,22.8}
+ GPP19yb_test= 1
+ GPP19byb = {22,17,17,20,26,26,30,30,30,22.8}
+ GPP19byb_test=1.32
+ mpGPP19yb= {18,14,14,20,20,20,20,20,20,20,20,20,19,19,19,19,19,19,19,19,19,19,19,19,19,19,18}
+ mpGPP19yb_test=1
+ mpGPP19byb= {18,14,14,18,18,18,20,20,20,18}
+ mpGPP19byb_test=1.32
+ GPP19ybx4 = {22,19,19,22,25,25,25,30,30,31,31,31,27.8}
+ GPP19ybx4_test=1
+ mpGPP19ybx4= {18,14,14,20,20,20,21,21,21,21,21,21,21,20.8}
+ mpGPP19ybx4_test=1
+
+
+ VECTORyb = {19,15,8,24,24,24,25,26,26,26,32,32,32,37,37,38,38,40}
+ VECTORyb_test= 1
+ VECTORbyb = {19,15,7,23,23,24,24,25,25,25,30,30,30,37,37,37,37,37,37,40}
+ VECTORbyb_test=1.30
+ mpVECTORyb= {12,11,8,14,15,15,15,17,17,17,17,17,17,17,21,24,23.5}
+ mpVECTORyb_test=1
+ mpVECTORbyb= {12,11,8,14,15,15,15,17,17,17,17,17,17,17,21,21,21,21,21,21,21,23}
+ mpVECTORbyb_test=1.30
+ VECTORybx4 = {19,14,10,27,27,27,27,31,31,31,31,34,34,34,40,40,46,46,46,46,46,46,46,46,46,46,46,45.5}
+ VECTORybx4_test=1
+ mpVECTORybx4= {12,11,8,14,15,15,15,17,17,17,17,17,17,17,23}
+ mpVECTORybx4_test=1
+
+
+
+ QBZyb = {30,14,15,27,27,28,28,29,31,31,40,40,45,45,45,45,45,46,46,46,46,46,46,47,47,47,47,45.8}
+ QBZyb_test=1
+ QBZbyb= {30,14,15,27,27,28,28,29,31,31,40,40,45,45,45,45,45,46,46,45.8}
+ QBZbyb_test=1.36
+ mpQBZyb= {20,12,12,19,19,20,20,22,22,22,22,28,28,28,28,28,28,28,28,27}
+ mpQBZyb_test=1
+ mpQBZbyb={20,12,12,19,19,20,20,22,22,22,22,26,28,28,28,28,28,28,28,27}
+ mpQBZbyb_test=1.36
+ QBZybx4 = {30,14,14,28,28,28,28,30,30,30,43,43,43,49,49,52,52,51,50,50,50,51}
+ QBZybx4_test=1
+ mpQBZybx4= {20,10,10,19,20,20,20,20,22,22,22,25,28,28,28,28,27.5}
+ mpQBZybx4_test=1
+
+
+
+ G36Cyb = {30,24,5,25,25,25,25,25,33,33,33,33,38,38,38,38,38,42,42,42,41,41,42}
+ G36Cyb_test= 1
+ G36Cbyb = {30,24,5,25,25,25,25,25,33,33,33,33,38,38,38,38,38,42,42,42,41,41,42}
+ G36Cbyb_test=1.36
+ mpG36Cyb= {20,14,12,15,15,18,18,21,21,21,21,21,21,21,25,25,25,26,26,26,26,26,26,24}
+ mpG36Cyb_test=1
+ mpG36Cbyb= {20,14,12,15,15,18,18,21,21,21,21,21,21,21,25,25,25,26,26,26,26,24}
+ mpG36Cbyb_test=1.36
+ G36Cybx4 = {25,22,22,23,23,25,25,25,34,34,34,38,38,40,45.8,45.8,45.8,45.8,45.8,45.8,45.8,45.8,45.8,45.8,46}
+ G36Cybx4_test=1
+ mpG36Cybx4= {20,15,14,15,18,18,21,21,24,24,24,24,25,25,25,25.2}
+ mpG36Cybx4_test=1
+
+
+
+ SARyb= {30,28,10,26,26,28,28,32,32,35,35,38,38,38,38,41,41,45,45,45,44,43,43,42,43,42,43}
+ SARyb_test= 1
+ SARbyb= {30,26,9,26,26,28,28,32,32,35,35,38,38,38,38,40,40,44,43} 
+ SARbyb_test= 1.36
+ mpSARyb={20,15,10,20,20,20,20,22,23,23,23,23,23,28,28,28,28,28,28,28,28,28,28,28,28,28,28,27}
+ mpSARyb_test= 1
+ mpSARbyb={20,15,10,20,20,20,20,23,23,23,23,23,23,23,28,28,28,28,28,27}
+ mpSARbyb_test= 1.36
+ SARybx4 = {30,29,9,27,28,28,32,32,32,33,33,33,33,41,41,41,41,46,47,47,46}
+ SARybx4_test=1
+ mpSARybx4= {20,15,10,20,20,20,23,23,23,23,23,23,23,23,23,23,25,29,29,29,29,29,30,29.2}
+ mpSARybx4_test=1
+
+
+
+		for i=1,#M16yb do 	M16yb[i]=M16yb[i]*M16yb_test end 
+		for i=1,#M16byb do 	M16byb[i]=M16byb[i]*M16byb_test end 
+		for i=1,#mpM16yb do 	mpM16yb[i]=mpM16yb[i]*mpM16yb_test end 
+		for i=1,#mpM16byb do 	mpM16byb[i]=mpM16byb[i]*mpM16byb_test end
+		for i=1,#M16ybx4 do 	M16ybx4[i]=M16ybx4[i]*M16ybx4_test end 
+		for i=1,#mpM16ybx4 do 	mpM16ybx4[i]=mpM16ybx4[i]*mpM16ybx4_test end 
+
+
+		for i=1,#AKMyb do 	AKMyb[i]=AKMyb[i]*AKMyb_test end 
+		for i=1,#AKMbyb do 	AKMbyb[i]=AKMbyb[i]*AKMbyb_test end 
+		for i=1,#mpAKMyb do 	mpAKMyb[i]=mpAKMyb[i]*mpAKMyb_test end 
+		for i=1,#mpAKMbyb do 	mpAKMbyb[i]=mpAKMbyb[i]*mpAKMbyb_test end
+		for i=1,#AKMybx4 do 	AKMybx4[i]=AKMybx4[i]*AKMybx4_test end 
+		for i=1,#mpAKMybx4 do 	mpAKMybx4[i]=mpAKMybx4[i]*mpAKMybx4_test end 
+
+				
+		for i=1,#M762yb do 	M762yb[i]=M762yb[i]*M762yb_test end 
+		for i=1,#M762byb do 	M762byb[i]=M762byb[i]*M762byb_test end 
+		for i=1,#mpM762yb do 	mpM762yb[i]=mpM762yb[i]*mpM762yb_test end 
+		for i=1,#mpM762byb do 	mpM762byb[i]=mpM762byb[i]*mpM762byb_test end
+		for i=1,#M762ybx4 do 	M762ybx4[i]=M762ybx4[i]*M762ybx4_test end 
+		for i=1,#mpM762ybx4 do mpM762ybx4[i]=mpM762ybx4[i]*mpM762ybx4_test end 
+
+
+
+		for i=1,#M4yb do 	M4yb[i]=M4yb[i]*M4yb_test end 
+		for i=1,#M4byb do 	M4byb[i]=M4byb[i]*M4byb_test end 
+		for i=1,#mpM4yb do mpM4yb[i]=mpM4yb[i]*mpM4yb_test end 
+		for i=1,#mpM4byb do mpM4byb[i]=mpM4byb[i]*mpM4byb_test end 
+		for i=1,#M4ybx4 do 	M4ybx4[i]=M4ybx4[i]*M4ybx4_test end 
+		for i=1,#mpM4ybx4 do mpM4ybx4[i]=mpM4ybx4[i]*mpM4ybx4_test end 
+
+
+
+
+		for i=1,#UMPyb do 	UMPyb[i]=UMPyb[i]*UMPyb_test end 
+		for i=1,#UMPbyb do 	UMPbyb[i]=UMPbyb[i]*UMPbyb_test end 
+		for i=1,#mpUMPyb do mpUMPyb[i]=mpUMPyb[i]*mpUMPyb_test end 
+		for i=1,#mpUMPbyb do mpUMPbyb[i]=mpUMPbyb[i]*mpUMPbyb_test end 
+		for i=1,#UMPybx4 do 	UMPybx4[i]=UMPybx4[i]*UMPybx4_test end 
+		for i=1,#mpUMPybx4 do mpUMPybx4[i]=mpUMPybx4[i]*mpUMPybx4_test end 
+
+
+
+		for i=1,#GPP19yb do 	GPP19yb[i]=GPP19yb[i]*GPP19yb_test end 
+		for i=1,#GPP19byb do 	GPP19byb[i]=GPP19byb[i]*GPP19byb_test end 
+		for i=1,#mpGPP19yb do mpGPP19yb[i]=mpGPP19yb[i]*mpGPP19yb_test end 
+		for i=1,#mpGPP19byb do mpGPP19byb[i]=mpGPP19byb[i]*mpGPP19byb_test end 
+		for i=1,#GPP19ybx4 do 	GPP19ybx4[i]=GPP19ybx4[i]*GPP19ybx4_test end 
+		for i=1,#mpGPP19ybx4 do mpGPP19ybx4[i]=mpGPP19ybx4[i]*mpGPP19ybx4_test end 
+
+
+
+		for i=1,#VECTORyb do 	VECTORyb[i]=VECTORyb[i]*VECTORyb_test end 
+		for i=1,#VECTORbyb do 	VECTORbyb[i]=VECTORbyb[i]*VECTORbyb_test end 
+		for i=1,#mpVECTORyb do mpVECTORyb[i]=mpVECTORyb[i]*mpVECTORyb_test end 
+		for i=1,#mpVECTORbyb do mpVECTORbyb[i]=mpVECTORbyb[i]*mpVECTORbyb_test end 
+		for i=1,#VECTORybx4 do 	VECTORybx4[i]=VECTORybx4[i]*VECTORybx4_test end 
+		for i=1,#mpVECTORybx4 do mpVECTORybx4[i]=mpVECTORybx4[i]*mpVECTORybx4_test end 
+
+
+		for i=1,#QBZyb do 	QBZyb[i]=QBZyb[i]*QBZyb_test end 
+		for i=1,#QBZbyb do 	QBZbyb[i]=QBZbyb[i]*QBZbyb_test end 
+		for i=1,#mpQBZyb do 	mpQBZyb[i]=mpQBZyb[i]*mpQBZyb_test end 
+		for i=1,#mpQBZbyb do 	mpQBZbyb[i]=mpQBZbyb[i]*mpQBZbyb_test end 
+		for i=1,#QBZybx4 do 	QBZybx4[i]=QBZybx4[i]*QBZybx4_test end 
+		for i=1,#mpQBZybx4 do mpQBZybx4[i]=mpQBZybx4[i]*mpQBZybx4_test end 
+
+
+		for i=1,#G36Cyb do 		G36Cyb[i]=G36Cyb[i]*G36Cyb_test end 
+		for i=1,#G36Cbyb do 	G36Cbyb[i]=G36Cbyb[i]*G36Cbyb_test end 
+		for i=1,#mpG36Cyb do 	mpG36Cyb[i]=mpG36Cyb[i]*mpG36Cyb_test end 
+		for i=1,#mpG36Cbyb do 	mpG36Cbyb[i]=mpG36Cbyb[i]*mpG36Cbyb_test end 
+		for i=1,#G36Cybx4 do 	G36Cybx4[i]=G36Cybx4[i]*G36Cybx4_test end 
+		for i=1,#mpG36Cybx4 do mpG36Cybx4[i]=mpG36Cybx4[i]*mpG36Cybx4_test end 
+
+
+
+		for i=1,#SARyb do 	SARyb[i]=SARyb[i]*SARyb_test end 
+		for i=1,#SARbyb do 	SARbyb[i]=SARbyb[i]*SARbyb_test end 
+		for i=1,#mpSARyb do mpSARyb[i]=mpSARyb[i]*mpSARyb_test end 
+		for i=1,#mpSARbyb do mpSARbyb[i]=mpSARbyb[i]*mpSARbyb_test end 
+		for i=1,#SARybx4 do 	SARybx4[i]=SARybx4[i]*SARybx4_test end 
+		for i=1,#mpSARybx4 do mpSARybx4[i]=mpSARybx4[i]*mpSARybx4_test end 
+
+
+															function Q(event, arg)
+															on = true
+		end
+
+function OnEvent(event, arg)
+		OutputLogMessage("Po Jie QQ:1643804476\n")
+		if (event == "PROFILE_ACTIVATED")	then
+			EnablePrimaryMouseButtonEvents(true)
+			if IsKeyLockOn(fourmodekey) and fouron then
+				PressAndReleaseKey(fourmodekey)
+			end
+			if allmodereversal then
+				if not IsKeyLockOn(allmodekey)	and allon then
+					PressAndReleaseKey(allmodekey)
+				end
+			else
+				if IsKeyLockOn(allmodekey)	and allon then
+					PressAndReleaseKey(allmodekey)
+				end
+			end
+			if IsKeyLockOn(reminderlightkey) and lighton then
+				PressAndReleaseKey(reminderlightkey)
+			end
+			i = 1
+			j = 1
+			ShotTime = 0
+			Holdbreathmode = 0
+			Holdbreathkey = 0
+			sightkey = 0
+			targetingkey = 0
+			rightkeytime1 = 0
+			rightkeytime2 = 0
+			sightmode = 0
+			starttime = 0
+			endtime = 0
+			macrostart = false
+			click = false
+			macro = false
+			rightdeviation = false
+
+		elseif event == "PROFILE_DEACTIVATED" then
+			ReleaseMouseButton(1)
+			ReleaseKey("lshift")
+		end
+		if (event == "M_RELEASED" and arg == 2)	then
+			F_fluttering()
+		end
+
+			
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == DCSQ_QT_Key) then
+	Sleep (10) 
+			PressMouseButton(1) 			
+	Sleep (10) 			
+	MoveMouseRelative(move,0) 			
+	MoveMouseRelative(move,0) 			
+	MoveMouseRelative(move,0) 			
+	Sleep (2) 			
+	MoveMouseRelative(move,0) 			
+	MoveMouseRelative(move,0) 			
+	MoveMouseRelative(move,0) 			
+	Sleep (2) 			
+	MoveMouseRelative(move,0) 			
+	MoveMouseRelative(move,0) 			
+	MoveMouseRelative(move,0) 			
+	Sleep (2) 			
+	MoveMouseRelative(move,0) 			
+	MoveMouseRelative(move,0) 			
+	MoveMouseRelative(move,0) 			
+	Sleep (2) 			
+	MoveMouseRelative(move,0) 			
+	MoveMouseRelative(move,0) 			
+	MoveMouseRelative(move,0) 			
+	Sleep (10) 
+			ReleaseMouseButton(1) 			
+	Sleep (10) 			
+	MoveMouseRelative(-move,0) 			
+	MoveMouseRelative(-move,0) 			
+	MoveMouseRelative(-move,0) 			
+	Sleep (2) 			
+	MoveMouseRelative(-move,0) 			
+	MoveMouseRelative(-move,0) 			
+	MoveMouseRelative(-move,0) 			
+	Sleep (2) 			
+	MoveMouseRelative(-move,0) 			
+	MoveMouseRelative(-move,0) 			
+	MoveMouseRelative(-move,0) 			
+	Sleep (2) 			
+	MoveMouseRelative(-move,0) 			
+	MoveMouseRelative(-move,0) 			
+	MoveMouseRelative(-move,0) 			
+	Sleep (2) 			
+	MoveMouseRelative(-move,0) 			
+	MoveMouseRelative(-move,0) 			
+	MoveMouseRelative(-move,0) 			
+	end
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == Manpei_QT_Key) then
+			PressAndReleaseKey("numlock")
+		end
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == shoulei_QT_Key) then
+			PressKey("5")
+			ReleaseKey("5")
+			Sleep(1000)
+			PressMouseButton(1)
+		end
+		if (event == "MOUSE_BUTTON_RELEASED" and arg == shoulei_QT_Key) then
+			ReleaseMouseButton(1)
+			Sleep(1000)
+			PressKey(ShouLei_Yongwan_QT_Key)
+			ReleaseKey(ShouLei_Yongwan_QT_Key)
+		end
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == 2 and targetingmode and targeting_key==2) then
+ 			rightkeytime1 = GetRunningTime()			
+			targetingkey = 1
+			if rightkeytime1 - rightkeytime2 &lt; 200 then
+				targetingkey = 0
+			end
+			Holdbreathkey = 1
+			sightkey = 1
+			F_Holdbreathstart()
+			if (rightdeviation and macro) then
+				PressKey("e")
+			end
+		end
+		if (event == "MOUSE_BUTTON_RELEASED" and arg == 2 and targetingmode and targeting_key==2) then
+			rightkeytime2 = GetRunningTime()
+			targetingkey = 0
+			Holdbreathkey = 0
+			sightkey = 0
+			F_Holdbreathstop()
+			if (rightdeviation and macro) then
+				ReleaseKey("e")
+			end
+		end
+		if(event == "MOUSE_BUTTON_PRESSED" and arg == 2 and auto_pickup and IsModifierPressed("lshift")  and IsModifierPressed(pausekey) ) then
+			PressKey("lalt") 
+			PressKey("lshift") 
+			ReleaseKey("lshift") 
+			ReleaseKey("lalt") 
+			PressAndReleaseKey("tab") 
+
+			PressAndReleaseKey("tab") 
+			Sleep(10) 
+			PressAndReleaseKey("r") 
+		end
+		if (event == "MOUSE_BUTTON_RELEASED" and arg == 2 and targetingmode and targeting_key==2) then
+		
+			targetingkey = 0
+			Holdbreathkey = 0
+			sightkey = 0
+			F_Holdbreathstop()
+			if (rightdeviation and macro) then
+				ReleaseKey("e")
+			end
+		end
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == 2 and targeting_key~=2) then
+			F_Holdbreathstart()
+		end
+		if (event == "MOUSE_BUTTON_RELEASED" and arg == 2 and targeting_key~=2) then
+			F_Holdbreathstop()
+		end
+ 		if(event == "MOUSE_BUTTON_PRESSED" and arg == rightdeviation_key) then
+ 			rightdeviation = not rightdeviation 		
+		end 
+if (event == "MOUSE_BUTTON_PRESSED" and arg == 1 and IsModifierPressed("lshift")  and IsModifierPressed(pausekey) )  then
+	Sleep (10) 
+	PressMouseButton(1) 
+	Sleep (10) 
+	MoveMouseRelative(move,0) 
+	MoveMouseRelative(move,0) 
+	MoveMouseRelative(move,0) 
+	Sleep (2) 
+	MoveMouseRelative(move,0) 
+	MoveMouseRelative(move,0) 
+	MoveMouseRelative(move,0) 
+	Sleep (2) 
+	MoveMouseRelative(move,0) 
+	MoveMouseRelative(move,0) 
+	MoveMouseRelative(move,0) 
+	Sleep (2) 
+	MoveMouseRelative(move,0) 
+	MoveMouseRelative(move,0) 
+	MoveMouseRelative(move,0) 
+	Sleep (2) 
+	MoveMouseRelative(move,0) 
+	MoveMouseRelative(move,0) 
+	MoveMouseRelative(move,0) 
+	Sleep (10) 
+	ReleaseMouseButton(1) 
+	Sleep (10) 
+	MoveMouseRelative(-move,0) 
+	MoveMouseRelative(-move,0) 
+	MoveMouseRelative(-move,0) 
+	Sleep (2) 
+	MoveMouseRelative(-move,0) 
+	MoveMouseRelative(-move,0) 
+	MoveMouseRelative(-move,0) 
+	Sleep (2) 
+	MoveMouseRelative(-move,0) 
+	MoveMouseRelative(-move,0) 
+	MoveMouseRelative(-move,0) 
+	Sleep (2) 
+	MoveMouseRelative(-move,0) 
+	MoveMouseRelative(-move,0) 
+	MoveMouseRelative(-move,0) 
+	Sleep (2) 
+	MoveMouseRelative(-move,0) 
+	MoveMouseRelative(-move,0) 
+	MoveMouseRelative(-move,0) 
+	end 
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == TianB_QT_Key) then
+	PressAndReleaseKey("Tab")
+	to=50000
+	cury=55000
+	i=0
+	Sleep(70)
+	DeltaY = 3755
+	bdown=true
+	repeat
+	MoveMouseTo(8000,cury)
+	PressMouseButton(1)
+	MoveMouseTo(8000+2000,cury)
+	PressMouseButton(1)
+	MoveMouseTo(8000,cury)
+	PressMouseButton(1)
+
+	MoveMouseTo(to,55000)
+	ReleaseMouseButton(1)
+	MoveMouseTo(to+2000,55000)
+	ReleaseMouseButton(1)
+	MoveMouseTo(to,55000)
+	ReleaseMouseButton(1)
+	cury=cury-DeltaY
+
+	i=i+1
+
+	until(i>13)
+	PressAndReleaseKey("Tab")
+end 	
+
+ 
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == liandian_QT_Key and not IsModifierPressed(controlkey))	then
+			F_Release()
+			if doubleclick then
+				IsFIRE = not IsFIRE
+			else
+				IsFIRE = true
+			end
+			IsM16 = false
+			IsM762 = false
+			IsAKM = false
+			IsM4 = false
+			IsGROZA = false
+			IsAUG = false
+			IsGPP19 = false
+			IsUMP = false
+			IsVECTOR = false
+			IsQBZ = false 
+			IsG36C = false
+			IsSCAR = false
+			F_closex4()
+			if IsFIRE then
+				macro = true
+				OutputLogMessage("liandian on\n")
+				OutputLCDMessage("liandian on",500000)
+			else
+				macro = false
+				OutputLogMessage("liandian off\n")
+				OutputLCDMessage("liandian off",500000)
+			end
+			F_scr()
+		end
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == akm_QT_Key and not IsModifierPressed(controlkey))	then
+			F_Release()
+			if doubleclick then
+				IsAK = not IsAK
+			else
+				IsAK = true
+			end
+			IsM16 = false
+			IsM762 = false
+			IsQBZ = false
+			IsGPP19 = false
+			IsUMP = false
+			IsAUG = false
+			IsM4 = false
+			IsGROZA = false
+			IsG36C = false
+			IsVECTOR = false
+			IsSCAR = false
+			F_closex4()
+			IsFIRE = false
+			if IsAK then
+				macro = true
+				OutputLogMessage("AK on\n")
+				OutputLCDMessage("AK on",500000)
+			else
+				macro = false
+				OutputLogMessage("AK off\n")
+				OutputLCDMessage("AK off",500000)
+			end
+			F_scr()
+		end
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == akm_x4_QT_Key and not IsModifierPressed(controlkey))		then
+			F_Release()
+			if doubleclick then
+				IsAKMX4 = not IsAKMX4
+			else
+				IsAKMX4 = true
+			end
+			F_closex1()
+			IsM16X4 = false
+			IsM4X4 = false
+			IsGROZAX4 = false
+			IsAUGX4 = false
+			IsUMPX4 = false
+			IsGPP19X4 = false
+			IsVECTORX4 = false
+			IsM762X4 = false
+			 IsQBZX4 = false
+			IsG36CX4 = false
+			IsSCARX4 = false
+			if IsAKMMX4 then
+				macro = true
+				OutputLogMessage("AKMx4 on\n")
+				OutputLCDMessage("AKMx4 on",500000)
+			else
+				macro = false
+				OutputLogMessage("AKMx4 off\n")
+				OutputLCDMessage("AKMx4 off",500000)
+			end
+			F_scr()
+		end
+		
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == m762_QT_Key and not IsModifierPressed(controlkey))	then
+			F_Release()
+			if doubleclick then
+				IsM762 = not IsM762
+			else
+				IsM762 = true
+			end
+			IsM16 = false
+			IsAK = false
+			IsQBZ = false
+			IsUMP = false
+			IsM4 = false
+			IsGROZA = false
+			IsAUG = false
+			IsGPP19 = false
+			IsVECTOR = false
+			IsG36C = false
+			IsSCAR = false
+			F_closex4()
+			IsFIRE = false
+			if IsM762 then
+				macro = true
+				OutputLogMessage("M762 on\n")
+				OutputLCDMessage("M762 on",500000)
+			else
+				macro = false
+				OutputLogMessage("M762 off\n")
+				OutputLCDMessage("M762 off",500000)
+			end
+			F_scr()
+		end
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == m762_x4_QT_Key and not IsModifierPressed(controlkey))	then
+			F_Release()
+			if doubleclick then
+				IsM762X4 = not IsM762X4
+			else
+				IsM762X4 = true
+			end
+			F_closex1()
+			IsM16X4 = false
+			IsM4X4 = false
+			IsGROZAX4 = false
+			IsUMPX4 = false
+			IsAUGX4 = false
+			IsVECTORX4 = false
+			 IsQBZX4 = false
+			IsG36CX4 = false
+			IsGPP19X4 = false
+			 IsAKMX4 = false
+			IsSCARX4 = false
+			if IsM762X4 then
+				macro = true
+				OutputLogMessage("M762x4 on\n")
+				OutputLCDMessage("M762x4 on",500000)
+			else
+				macro = false
+				OutputLogMessage("M762x4 off\n")
+				OutputLCDMessage("M762x4 off",500000)
+			end
+			F_scr()
+		end
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == m16_QT_Key and not IsModifierPressed(controlkey))	then
+			F_Release()
+			if doubleclick then
+				IsM16 = not IsM16
+			else
+				IsM16 = true
+			end
+			IsAK = false
+			IsM762 = false
+			IsM4 = false
+			IsGROZA = false
+			IsAUG = false
+			IsVECTOR = false
+			IsGPP19 = false
+			IsQBZ = false
+			IsUMP = false
+			IsG36C = false
+			IsSCAR = false
+			IsFIRE = false
+			F_closex4()
+			if IsM16 then
+				macro = true
+				OutputLogMessage("M16 on\n")
+				OutputLCDMessage("M16 on",500000)
+			else
+				macro = false
+				OutputLogMessage("M16 off\n")
+				OutputLCDMessage("M16 off",500000)
+			end
+			F_scr()
+		end
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == m16_x4_QT_Key and not IsModifierPressed(controlkey))		then
+			F_Release()
+			if doubleclick then
+				IsM16X4 = not IsM16X4
+			else
+				IsM16X4 = true
+			end
+			F_closex1()
+			IsAKMX4 = false
+			IsM762 = false
+			IsM4X4 = false
+			IsGROZAX4 = false
+			IsAUGX4 = false
+			IsGPP19X4 = false
+			IsVECTORX4 = false
+			IsUMPX4 = false
+			IsQBZX4 = false
+			IsG36CX4 = false
+			IsSCARX4 = false
+			if IsM16X4 then
+				macro = true
+				OutputLogMessage("M16x4 on\n")
+				OutputLCDMessage("M16x4 on",500000)
+			else
+				macro = false
+				OutputLogMessage("M16x4 off\n")
+				OutputLCDMessage("M16x4 off",500000)
+			end
+			F_scr()
+		end
+
+
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == m4_QT_Key and not IsModifierPressed(controlkey))	then
+			F_Release()
+			IsM16 = false
+			IsM762 = false
+			IsAK = false
+			IsUMP = false
+			IsAUG = false
+			IsVECTOR = false
+			IsQBZ = false
+			IsGPP19 = false
+			IsG36C = false
+			IsGROZA = false
+			if doubleclick then
+				IsM4 = not IsM4
+			else
+				IsM4 = true
+			end
+			IsSCAR = false
+			IsFIRE = false
+			F_closex4()
+			if IsM4 then
+				macro = true
+				OutputLogMessage("M4 on\n")
+				OutputLCDMessage("M4 on",500000)
+			else
+				macro = false
+				OutputLogMessage("M4 off\n")
+				OutputLCDMessage("M4 off",500000)
+			end
+			F_scr()
+		end
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == m4_x4_QT_Key and not IsModifierPressed(controlkey))	then
+			F_Release()
+			if doubleclick then
+				IsM4X4 = not IsM4X4
+			else
+				IsM4X4 = true
+			end
+			F_closex1()
+			IsAKMX4 = false
+			IsM762X4 = false
+			IsUMPX4 = false
+			IsVECTORX4 = false
+			IsM16X4 = false
+			IsAUGX4 = false
+			IsQBZX4 = false
+			IsG36CX4 = false
+			IsGPP19X4 = false
+			IsSCARX4 = false
+			IsGROZAX4 = false
+			if IsM4X4 then
+				macro = true
+				OutputLogMessage("M4x4 on\n")
+				OutputLCDMessage("M4x4 on",500000)
+			else
+				macro = false
+				OutputLogMessage("M4x4 off\n")
+				OutputLCDMessage("M4x4 off",500000)
+			end
+			F_scr()
+		end
+
+
+ 		if (event == "MOUSE_BUTTON_PRESSED" and arg == groza_QT_Key and not IsModifierPressed(controlkey))	then
+			F_Release()
+			IsM16 = false
+			IsM762 = false
+			IsAK = false
+			IsUMP = false
+			IsAUG = false
+			IsVECTOR = false
+			IsQBZ = false
+			IsGPP19 = false
+			IsG36C = false
+			IsM4 = false
+			if doubleclick then
+				IsGROZA = not IsGROZA
+			else
+				IsGROZA = true
+			end
+			IsSCAR = false
+			IsFIRE = false
+			F_closex4()
+			if IsGROZA then
+				macro = true
+				OutputLogMessage("GROZA on\n")
+				OutputLCDMessage("GROZA on",500000)
+			else
+				macro = false
+				OutputLogMessage("GROZA off\n")
+				OutputLCDMessage("GROZA off",500000)
+			end
+			F_scr()
+		end
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == groza_x4_QT_Key and not IsModifierPressed(controlkey))	then
+			F_Release()
+			if doubleclick then
+				IsGROZAX4 = not IsGROZAX4
+			else
+				IsGROZAX4 = true
+			end
+			F_closex1()
+			IsAKMX4 = false
+			IsM762X4 = false
+			IsUMPX4 = false
+			IsVECTORX4 = false
+			IsM16X4 = false
+			IsAUGX4 = false
+			IsQBZX4 = false
+			IsG36CX4 = false
+			IsGPP19X4 = false
+			IsSCARX4 = false
+			IsM4X4 = false
+			if IsGROZAX4 then
+				macro = true
+				OutputLogMessage("GROZAx4 on\n")
+				OutputLCDMessage("GROZAx4 on",500000)
+			else
+				macro = false
+				OutputLogMessage("GROZAx4 off\n")
+				OutputLCDMessage("GROZAx4 off",500000)
+			end
+			F_scr()
+		end
+
+
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == aug_QT_Key and not IsModifierPressed(controlkey))	then
+			F_Release()
+			IsM16 = false
+			IsM762 = false
+			IsAK = false
+			IsUMP = false
+			IsM4 = false
+			IsGROZA = false
+			IsVECTOR = false
+			IsQBZ = false
+			IsGPP19 = false
+			IsG36C = false
+			if doubleclick then
+				IsAUG = not IsAUG
+			else
+				IsAUG = true
+			end
+			IsSCAR = false
+			IsFIRE = false
+			F_closex4()
+			if IsAUG then
+				macro = true
+				OutputLogMessage("AUG on\n")
+				OutputLCDMessage("AUG on",500000)
+			else
+				macro = false
+				OutputLogMessage("AUG off\n")
+				OutputLCDMessage("AUG off",500000)
+			end
+			F_scr()
+		end
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == aug_x4_QT_Key and not IsModifierPressed(controlkey))	then
+			F_Release()
+			if doubleclick then
+				IsAUGX4 = not IsAUGX4
+			else
+				IsAUGX4 = true
+			end
+			F_closex1()
+			IsAKMX4 = false
+			IsM762X4 = false
+			IsUMPX4 = false
+			IsVECTORX4 = false
+			IsM16X4 = false
+			IsM4X4 = false
+			IsGROZAX4 = false
+			IsQBZX4 = false
+			IsG36CX4 = false
+			IsGPP19X4 = false
+			IsSCARX4 = false
+			if IsAUGX4 then
+				macro = true
+				OutputLogMessage("AUGx4 on\n")
+				OutputLCDMessage("AUGx4 on",500000)
+			else
+				macro = false
+				OutputLogMessage("AUGx4 off\n")
+				OutputLCDMessage("AUGx4 off",500000)
+			end
+			F_scr()
+		end
+
+
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == gpp19_QT_Key and not IsModifierPressed(controlkey))	then
+			F_Release()
+			IsM16 = false
+			IsM762 = false
+			IsAK = false
+			IsUMP = false
+			IsM4 = false
+			IsGROZA = false
+			IsAUG = false
+			IsVECTOR = false
+			IsQBZ = false
+			IsG36C = false
+			if doubleclick then
+				IsGPP19 = not IsGPP19
+			else
+				IsGPP19 = true
+			end
+			IsSCAR = false
+			IsFIRE = false
+			F_closex4()
+			if IsGPP19 then
+				macro = true
+				OutputLogMessage("GPP19 on\n")
+				OutputLCDMessage("GPP19 on",500000)
+			else
+				macro = false
+				OutputLogMessage("GPP19 off\n")
+				OutputLCDMessage("GPP19 off",500000)
+			end
+			F_scr()
+		end
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == gpp19_x4_QT_Key and not IsModifierPressed(controlkey))	then
+			F_Release()
+			if doubleclick then
+				IsGPP19X4 = not IsGPP19X4
+			else
+				IsGPP19X4 = true
+			end
+			F_closex1()
+			IsAKMX4 = false
+			IsM762X4 = false
+			IsM4X4 = false
+			IsGROZAX4 = false
+			IsAUGX4 = false
+			IsUMPX4 = false
+			IsVECTORX4 = false
+			IsM16X4 = false
+			IsQBZX4 = false
+			IsG36CX4 = false
+			IsSCARX4 = false
+			if IsGPP19X4 then
+				macro = true
+				OutputLogMessage("GPP19x4 on\n")
+				OutputLCDMessage("GPP19x4 on",500000)
+			else
+				macro = false
+				OutputLogMessage("GPP19x4 off\n")
+				OutputLCDMessage("GPP19x4 off",500000)
+			end
+			F_scr()
+		end
+
+
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == ump_QT_Key and not IsModifierPressed(controlkey))	then
+			F_Release()
+			IsM16 = false
+			IsM762 = false
+			IsAK = false
+			IsGPP19 = false
+			IsVECTOR = false
+			IsM4 = false
+			IsGROZA = false
+			IsAUG = false
+			IsQBZ = false
+			IsG36C = false
+			if doubleclick then
+				IsUMP = not IsUMP
+			else
+				IsUMP = true
+			end
+			IsSCAR = false
+			IsFIRE = false
+			F_closex4()
+			if IsUMP then
+				macro = true
+				OutputLogMessage("UMP on\n")
+				OutputLCDMessage("UMP on",500000)
+			else
+				macro = false
+				OutputLogMessage("UMP off\n")
+				OutputLCDMessage("UMP off",500000)
+			end
+			F_scr()
+		end
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == ump_x4_QT_Key and not IsModifierPressed(controlkey))	then
+			F_Release()
+			if doubleclick then
+				IsUMPX4 = not IsUMPX4
+			else
+				IsUMPX4 = true
+			end
+			F_closex1()
+			IsAKMX4 = false
+			IsM762X4 = false
+			IsVECTORX4 = false
+			IsM4X4 = false
+			IsGROZAX4 = false
+			IsAUGX4 = false
+			IsGPP19X4 = false
+			IsM16X4 = false
+			IsQBZX4 = false
+			IsG36CX4 = false
+			IsSCARX4 = false
+			if IsUMPX4 then
+				macro = true
+				OutputLogMessage("UMPx4 on\n")
+				OutputLCDMessage("UMPx4 on",500000)
+			else
+				macro = false
+				OutputLogMessage("UMPx4 off\n")
+				OutputLCDMessage("UMPx4 off",500000)
+			end
+			F_scr()
+		end
+
+
+
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == vector_QT_Key and not IsModifierPressed(controlkey))	then
+			F_Release()
+			IsM16 = false
+			IsM762 = false
+			IsM4 = false
+			IsGROZA = false
+			IsAUG = false
+			IsGPP19 = false
+			IsAK = false
+			IsUMP = false
+			IsQBZ = false
+			IsG36C = false
+			IsSCAR = false
+			if doubleclick then
+				IsVECTOR = not IsVECTOR
+			else
+				IsVECTOR = true
+			end
+			IsFIRE = false
+			F_closex4()
+			if IsVECTOR then
+				macro = true
+				OutputLogMessage("VECTOR on\n")
+				OutputLCDMessage("VECTOR on",500000)
+			else
+				macro = false
+				OutputLogMessage("VECTOR off\n")
+				OutputLCDMessage("VECTOR off",500000)
+			end
+			F_scr()
+		end
+
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == vector_x4_QT_Key and not IsModifierPressed(controlkey))	then
+			F_Release()
+			if doubleclick then
+				IsVECTORX4 = not IsVECTORX4
+			else
+				IsVECTORX4 = true
+			end
+			F_closex1()
+			IsAKMX4 = false
+			IsM762X4 = false
+			IsM4X4 = false
+			IsGROZAX4 = false
+			IsAUGX4 = false
+			IsM16X4 = false
+			IsUMPX4 = false
+			IsGPP19X4 = false
+			IsQBZX4 = false
+			IsG36CX4 = false
+			IsSCARX4 = false
+			if IsVECTORX4 then
+				macro = true
+				OutputLogMessage("VECTORx4 on\n")
+				OutputLCDMessage("VECTORx4 on",500000)
+			else
+				macro = false
+				OutputLogMessage("VECTORx4 off\n")
+				OutputLCDMessage("VECTORx4 off",500000)
+			end
+			F_scr()
+		end
+
+
+
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == qbz_QT_Key and not IsModifierPressed(controlkey))	then
+			F_Release()
+			IsM16 = false
+			IsAK = false
+			IsM762 = false
+			IsG36C = false
+			IsGPP19 = false
+			IsUMP = false
+			 IsM4 = false
+			IsGROZA = false
+			IsAUG = false
+			IsVECTOR = false
+			if doubleclick then
+				IsQBZ = not IsQBZ
+			else
+				IsQBZ = true
+			end
+			IsSCAR = false
+			IsFIRE = false
+			F_closex4()
+			if IsQBZ then
+				macro = true
+				OutputLogMessage("QBZ on\n")
+				OutputLCDMessage("QBZ on",500000)
+			else
+				macro = false
+				OutputLogMessage("QBZ off\n")
+				OutputLCDMessage("QBZ off",500000)
+			end
+			F_scr()
+		end
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == qbz_x4_QT_Key and not IsModifierPressed(controlkey))	then
+			F_Release()
+			if doubleclick then
+				IsqbzX4 = not IsqbzX4
+			else
+				IsqbzX4 = true
+			end
+			F_closex1()
+			IsAKMX4 = false
+			IsM762X4 = false
+			IsM16X4 = false
+			IsGPP19X4 = false
+			IsUMPX4 = false
+			IsM4X4 = false
+			IsGROZAX4 = false
+			IsAUGX4 = false
+			IsVECTORX4 = false
+			IsG36CX4 = false
+			IsSCARX4 = false
+			if IsQBZX4 then
+				macro = true
+				OutputLogMessage("QBZx4 on\n")
+				OutputLCDMessage("QBZx4 on",500000)
+			else
+				macro = false
+				OutputLogMessage("QBZx4 off\n")
+				OutputLCDMessage("QBZx4 off",500000)
+			end
+			F_scr()
+		end
+
+
+
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == g36c_QT_Key and not IsModifierPressed(controlkey))	then
+			F_Release()
+			IsM16 = false
+			IsAK = false
+			IsQBZ = false
+			IsM762 = false
+			IsAUG = false
+			IsUMP = false
+			IsGPP19 = false
+			IsVECTOR = false
+			IsM4 = false
+			IsGROZA = false
+			if doubleclick then
+				IsG36C = not IsG36C
+			else
+				IsG36C = true
+			end
+			IsSCAR = false
+			IsFIRE = false
+			F_closex4()
+			if IsG36C then
+				macro = true
+				OutputLogMessage("G36C on\n")
+				OutputLCDMessage("G36C on",500000)
+			else
+				macro = false
+				OutputLogMessage("G36C off\n")
+				OutputLCDMessage("G36C off",500000)
+			end
+			F_scr()
+		end
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == g36c_x4_QT_Key and not IsModifierPressed(controlkey))	then
+			F_Release()
+			if doubleclick then
+				Isg36cX4 = not Isg36cX4
+			else
+				Isg36cX4 = true
+			end
+			F_closex1()
+			IsAKMX4 = false
+			IsM762X4 = false
+			IsVECTORX4 = false
+			IsQBZX4 = false
+			IsUMPX4 = false
+			IsM16X4 = false
+			IsM4X4 = false
+			IsGROZAX4 = false
+			IsAUGX4 = false
+			IsGPP19X4 = false
+			IsSCARX4 = false
+			if IsG36CX4 then
+				macro = true
+				OutputLogMessage("G36Cx4 on\n")
+				OutputLCDMessage("G36Cx4 on",500000)
+			else
+				macro = false
+				OutputLogMessage("G36Cx4 off\n")
+				OutputLCDMessage("G36Cx4 off",500000)
+			end
+			F_scr()
+		end
+
+
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == scar_QT_Key and not IsModifierPressed(controlkey))	then
+			F_Release()
+			IsAK = false
+			IsM16 = false
+			IsG36C =false
+			IsM762 = false
+			IsM4 = false
+			IsGROZA = false
+			IsAUG = false
+			IsGPP19 = false
+			IsVECTOR = false
+			IsUMP = false
+			IsQBZ = false
+			F_closex4()
+			if doubleclick then
+				IsSCAR = not IsSCAR
+			else
+				IsSCAR = true
+			end
+			IsFIRE = false
+			if IsSCAR then
+				macro = true
+				OutputLogMessage("SCAR on\n")
+				OutputLCDMessage("SCAR off",500000)
+			else
+				macro = false
+				OutputLogMessage("SCAR off\n")
+				OutputLCDMessage("SCAR off",500000)
+			end
+			F_scr()
+		end
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == scar_x4_QT_Key and not IsModifierPressed(controlkey))	then
+			F_Release()
+			if doubleclick then
+				IsSCARX4 = not IsSCARX4
+			else
+				IsSCARX4 = true
+			end
+			F_closex1()
+			IsAKMX4 = false
+			IsM16X4 = false
+			IsVECTORX4 = false
+			IsGPP19X4 = false
+			IsAUGX4 = false
+			IsM762X4 = false
+			IsUMPX4 = false
+			IsG36CX4 =false
+			IsM4X4 = false
+			IsGROZAX4 = false
+			IsQBZX4 = false
+			if IsSCARX4 then
+				macro = true
+				OutputLogMessage("SCARx4 on\n")
+				OutputLCDMessage("SCARx4 on",500000)
+			else
+				macro = false
+				OutputLogMessage("scarx4 off\n")
+				OutputLCDMessage("scarx4 off",500000)
+			end
+			F_scr()
+		end
+
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == GB_QT_Key and not IsModifierPressed(controlkey))		then
+			F_Release()
+			F_closex4()
+			F_closex1()
+			macro = false
+			OutputLogMessage("GG off\n")
+			OutputLCDMessage("GG off",500000)
+			F_scr()
+		end
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == fire_QT and IsModifierPressed(controlkey))	then
+			F_Release()
+			if doubleclick then
+				IsFIRE = not IsFIRE
+			else
+				IsFIRE = true
+			end
+			IsM16 = false
+			IsM762 = false
+			IsGPP19 = false
+			IsAK = false
+			IsUMP = false
+			IsVECTOR = false
+			IsM4 = false
+			IsGROZA = false
+			IsAUG = false
+			IsQBZ = false
+			IsG36C =false
+			IsSCAR = false
+			F_closex4()
+			if IsFIRE then
+				macro = true
+				OutputLogMessage("fire on\n")
+				OutputLCDMessage("fire on",500000)
+			else
+				macro = false
+				OutputLogMessage("fire off\n")
+				OutputLCDMessage("fire off",500000)
+			end
+			F_scr()
+		end
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == akm_QT and IsModifierPressed(controlkey))	then
+			F_Release()
+			if doubleclick then
+				IsAK = not IsAK
+			else
+				IsAK = true
+			end
+			IsM16 = false
+			IsM4 = false
+			IsGROZA = false
+			IsAUG = false
+			IsVECTOR = false
+			IsG36C =false
+			IsUMP = false
+			IsGPP19 = false
+			IsM762 = false
+			IsQBZ = false
+			IsSCAR = false
+			F_closex4()
+			IsFIRE = false
+			if IsAK then
+				macro = true
+				OutputLogMessage("AK on\n")
+				OutputLCDMessage("AK on",500000)
+			else
+				macro = false
+				OutputLogMessage("AK off\n")
+				OutputLCDMessage("AK off",500000)
+			end
+			F_scr()
+		end
+		
+				if (event == "MOUSE_BUTTON_PRESSED" and arg == m762_QT and IsModifierPressed(controlkey))	then
+			F_Release()
+			if doubleclick then
+				IsM762 = not IsM762
+			else
+				IsM762 = true
+			end
+			IsM16 = false
+			IsM4 = false
+			IsGROZA = false
+			IsVECTOR = false
+			IsG36C =false
+			IsUMP = false
+			IsAUG = false
+			IsAK = false
+			IsQBZ = false
+			IsGPP19 = false
+			IsSCAR = false
+			F_closex4()
+			IsFIRE = false
+			if IsM762 then
+				macro = true
+				OutputLogMessage("M762 on\n")
+				OutputLCDMessage("M762 on",500000)
+			else
+				macro = false
+				OutputLogMessage("M762 off\n")
+				OutputLCDMessage("M762 off",500000)
+			end
+			F_scr()
+		end
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == m16_QT and IsModifierPressed(controlkey))	then
+			F_Release()
+			if doubleclick then
+				IsM16 = not IsM16
+			else
+				IsM16 = true
+			end
+			IsAK = false
+			IsM4 = false
+			IsGROZA = false
+			IsAUG = false
+			IsVECTOR = false
+			IsM762 = false
+			IsUMP = false
+			IsQBZ = false
+			IsG36C =false
+			IsGPP19 = false
+			IsSCAR = false
+			F_closex4()
+			IsFIRE = false
+			if IsM16 then
+				macro = true
+				OutputLogMessage("M16 on\n")
+				OutputLCDMessage("M16 on",500000)
+			else
+				macro = false
+				OutputLogMessage("M16 off\n")
+				OutputLCDMessage("M16 off",500000)
+			end
+			F_scr()
+		end
+
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == m4_QT and IsModifierPressed(controlkey))		then
+			F_Release()
+			IsM16 = false
+			IsAK = false
+			IsVECTOR = false
+			IsM762 = false
+			IsAUG = false
+			IsGPP19 = false
+			IsQBZ = false
+			IsUMP = false
+			IsG36C =false
+			IsGROZA = false
+			if doubleclick then
+				IsM4 = not IsM4
+			else
+				IsM4 = true
+			end
+			IsSCAR = false
+			F_closex4()
+			IsFIRE = false
+			if IsM4 then
+				macro = true
+				OutputLogMessage("M4 on\n")
+				OutputLCDMessage("M4 on",500000)
+			else
+				macro = false
+				OutputLogMessage("M4 off\n")
+				OutputLCDMessage("M4 off",500000)
+			end
+			F_scr()
+		end
+
+
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == groza_QT and IsModifierPressed(controlkey))		then
+			F_Release()
+			IsM16 = false
+			IsAK = false
+			IsVECTOR = false
+			IsM762 = false
+			IsAUG = false
+			IsGPP19 = false
+			IsQBZ = false
+			IsUMP = false
+			IsG36C =false
+			IsM4 = false
+			if doubleclick then
+				IsGROZA = not IsGROZA
+			else
+				IsGROZA = true
+			end
+			IsSCAR = false
+			F_closex4()
+			IsFIRE = false
+			if IsGROZA then
+				macro = true
+				OutputLogMessage("GROZA on\n")
+				OutputLCDMessage("GROZA on",500000)
+			else
+				macro = false
+				OutputLogMessage("GROZA off\n")
+				OutputLCDMessage("GROZA off",500000)
+			end
+			F_scr()
+		end
+
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == aug_QT and IsModifierPressed(controlkey))		then
+			F_Release()
+			IsM16 = false
+			IsAK = false
+			IsVECTOR = false
+			IsM762 = false
+			IsM4 = false
+			IsGROZA = false
+			IsGPP19 = false
+			IsQBZ = false
+			IsUMP = false
+			IsG36C =false
+			if doubleclick then
+				IsAUG = not IsAUG
+			else
+				IsAUG = true
+			end
+			IsSCAR = false
+			F_closex4()
+			IsFIRE = false
+			if IsAUG then
+				macro = true
+				OutputLogMessage("AUG on\n")
+				OutputLCDMessage("AUG on",500000)
+			else
+				macro = false
+				OutputLogMessage("AUG off\n")
+				OutputLCDMessage("AUG off",500000)
+			end
+			F_scr()
+		end
+
+
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == gpp19_QT and IsModifierPressed(controlkey))		then
+			F_Release()
+			IsM16 = false
+			IsAK = false
+			IsVECTOR = false
+			IsM762 = false
+			IsQBZ = false
+			IsM4 = false
+			IsGROZA = false
+			IsAUG = false
+			IsUMP = false
+			IsG36C =false
+			if doubleclick then
+				IsGPP19 = not IsGPP19
+			else
+				IsGPP19 = true
+			end
+			IsSCAR = false
+			F_closex4()
+			IsFIRE = false
+			if IsGPP19 then
+				macro = true
+				OutputLogMessage("GPP19 on\n")
+				OutputLCDMessage("GPP19 on",500000)
+			else
+				macro = false
+				OutputLogMessage("GPP19 off\n")
+				OutputLCDMessage("GPP19 off",500000)
+			end
+			F_scr()
+		end
+
+
+
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == ump_QT and IsModifierPressed(controlkey))		then
+			F_Release()
+			IsM16 = false
+			IsAK = false
+			IsVECTOR = false
+			IsM762 = false
+			IsGPP19 = false
+			IsM4 = false
+			IsGROZA = false
+			IsAUG = false
+			IsQBZ = false
+			IsG36C =false
+			if doubleclick then
+				IsUMP = not IsUMP
+			else
+				IsUMP = true
+			end
+			IsSCAR = false
+			F_closex4()
+			IsFIRE = false
+			if IsUMP then
+				macro = true
+				OutputLogMessage("UMP on\n")
+				OutputLCDMessage("UMP on",500000)
+			else
+				macro = false
+				OutputLogMessage("UMP off\n")
+				OutputLCDMessage("UMP off",500000)
+			end
+			F_scr()
+		end
+
+
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == vector_QT and IsModifierPressed(controlkey))		then
+			F_Release()
+			IsM16 = false
+			IsAK = false
+			IsM762 = false
+			IsGPP19 = false
+			IsAUG = false
+			IsUMP = false
+			IsM4 = false
+			IsGROZA = false
+			IsQBZ = false
+			IsSCAR = false
+			IsG36C =false
+			if doubleclick then
+				IsVECTOR = not IsVECTOR
+			else
+				IsVECTOR = true
+			end
+			F_closex4()
+			IsFIRE = false
+			if IsVECTOR then
+				macro = true
+				OutputLogMessage("VECTOR on\n")
+				OutputLCDMessage("VECTOR on",500000)
+			else
+				macro = false
+				OutputLogMessage("VECTOR off\n")
+				OutputLCDMessage("VECTOR off",500000)
+			end
+			F_scr()
+		end
+
+
+
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == qbz_QT and IsModifierPressed(controlkey))	then
+			F_Release()
+			IsM16 = false
+			IsM762 = false
+			IsAK = false
+			IsVECTOR = false
+			IsGPP19 = false
+			IsUMP = false
+			IsG36C =false
+			IsM4 = false
+			IsGROZA = false
+			IsAUG = false
+			if doubleclick then
+				IsQBZ = not IsQBZ
+			else
+				IsQBZ = true
+			end
+			IsSCAR = false
+			F_closex4()
+			IsFIRE = false
+			if IsQBZ then
+				macro = true
+				OutputLogMessage("QBZ on\n")
+				OutputLCDMessage("QBZ on",500000)
+			else
+				macro = false
+				OutputLogMessage("QBZ off\n")
+				OutputLCDMessage("QBZ off",500000)
+			end
+			F_scr()
+		end
+
+
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == g36c_QT and IsModifierPressed(controlkey))	then
+			F_Release()
+			IsM16 = false
+			IsM762 = false
+			IsAK = false
+			IsGPP19 = false
+			IsUMP = false
+			IsVECTOR = false
+			IsQBZ = false
+			IsM4 = false
+			IsGROZA = false
+			IsAUG = false
+			if doubleclick then
+				IsG36C = not IsG36C
+			else
+				IsG36C = true
+			end
+			IsSCAR = false
+			F_closex4()
+			IsFIRE = false
+			if IsG36C then
+				macro = true
+				OutputLogMessage("G36C on\n")
+				OutputLCDMessage("G36C on",500000)
+			else
+				macro = false
+				OutputLogMessage("G36C off\n")
+				OutputLCDMessage("G36C off",500000)
+			end
+			F_scr()
+		end
+
+
+
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == scar_QT and IsModifierPressed(controlkey))	then
+			F_Release()
+			IsAK = false
+			IsM16 = false
+			IsM762 = false
+			IsVECTOR = false
+			IsGPP19 = false
+			IsUMP = false
+			IsM4 = false
+			IsGROZA = false
+			IsAUG = false
+			IsQBZ = false
+			IsG36C = false
+			if doubleclick then
+				IsSCAR = not IsSCAR
+			else
+				IsSCAR = true
+			end
+			F_closex4()
+			IsFIRE = false
+			if IsSCAR then
+				macro = true
+				OutputLogMessage("SCAR on\n")
+				OutputLCDMessage("SCAR on",500000)
+			else
+				macro = false
+				OutputLogMessage("SCAR off\n")
+				OutputLCDMessage("SCAR off",500000)
+			end
+			F_scr()
+		end
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == close_QT and IsModifierPressed(controlkey))	then
+			F_Release()
+			F_closex1()
+			F_closex4()
+			macro = false
+			OutputLogMessage("all gun off\n")
+			OutputLCDMessage("all gun off",500000)
+			F_scr()
+		end
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == TQTB_QT and IsModifierPressed(controlkey))	then
+	PressAndReleaseKey("Tab")
+	to=50000
+	cury=55000
+	i=0
+	Sleep(70)
+	DeltaY = 3755
+	bdown=true
+	repeat
+	MoveMouseTo(8000,cury)
+	PressMouseButton(1)
+	MoveMouseTo(8000+2000,cury)
+	PressMouseButton(1)
+	MoveMouseTo(8000,cury)
+	PressMouseButton(1)
+
+	MoveMouseTo(to,55000)
+	ReleaseMouseButton(1)
+	MoveMouseTo(to+2000,55000)
+	ReleaseMouseButton(1)
+	MoveMouseTo(to,55000)
+	ReleaseMouseButton(1)
+	cury=cury-DeltaY
+
+	i=i+1
+
+	until(i>13)
+	PressAndReleaseKey("Tab")
+end 
+		if (event == "G_PRESSED" and arg == akm__QT)	then
+			F_Release()
+			if doubleclick then
+				IsAK = not IsAK
+			else
+				IsAK = true
+			end
+			IsM16 = false
+			IsM4 = false
+			IsGROZA = false
+			IsAUG = false
+			IsQBZ = false
+			IsGPP19 = false
+			IsVECTOR = false
+			IsG36C = false
+			IsUMP = false
+			IsM762 = false
+			IsSCAR = false
+			F_closex4()
+			IsFIRE = false
+			if IsAK then
+				macro = true
+				OutputLogMessage("AK on\n")
+				OutputLCDMessage("AK on",500000)
+			else
+				macro = false
+				OutputLogMessage("AK off\n")
+				OutputLCDMessage("AK off",500000)
+			end
+			F_scr()
+		end
+		if (event == "G_PRESSED" and arg == m16__QT)	then
+			F_Release()
+			if doubleclick then
+				IsM16 = not IsM16
+			else
+				IsM16 = true
+			end
+			IsAK = false
+			IsM4 = false
+			IsGROZA = false
+			IsAUG = false
+			IsM762 = false
+			IsUMP = false
+			IsVECTOR = false
+			IsGPP19 = false
+			IsQBZ = false
+			IsG36C = false			
+			IsSCAR = false
+			IsFIRE = false
+			F_closex4()
+			if IsM16 then
+				macro = true
+				OutputLogMessage("M16 on\n")
+				OutputLCDMessage("M16 on",500000)
+			else
+				macro = false
+				OutputLogMessage("M16 off\n")
+				OutputLCDMessage("M16 off",500000)
+			end
+			F_scr()
+		end
+		if (event == "G_PRESSED" and arg ==TQTB__QT)	then
+	PressAndReleaseKey("Tab")
+	to=50000
+	cury=55000
+	i=0
+	Sleep(70)
+	DeltaY = 3755
+	bdown=true
+	repeat
+	MoveMouseTo(8000,cury)
+	PressMouseButton(1)
+	MoveMouseTo(8000+2000,cury)
+	PressMouseButton(1)
+	MoveMouseTo(8000,cury)
+	PressMouseButton(1)
+
+	MoveMouseTo(to,55000)
+	ReleaseMouseButton(1)
+	MoveMouseTo(to+2000,55000)
+	ReleaseMouseButton(1)
+	MoveMouseTo(to,55000)
+	ReleaseMouseButton(1)
+	cury=cury-DeltaY
+
+	i=i+1
+
+	until(i>13)
+	PressAndReleaseKey("Tab")
+end 
+
+		if (event == "G_PRESSED" and arg == m4__QT)	then
+			F_Release()
+			IsM16 = false
+			IsAK = false
+			IsM762 = false
+			IsAUG = false
+			IsUMP = false
+			IsVECTOR = false
+			IsGPP19 = false
+			IsQBZ = false
+			IsG36C = false	
+			IsGROZA = false
+			if doubleclick then
+				IsM4 = not IsM4
+			else
+				IsM4 = true
+			end	
+			IsSCAR = false
+			IsFIRE = false
+			F_closex4()
+			if IsM4 then
+				macro = true
+				OutputLogMessage("M4 on\n")
+				OutputLCDMessage("M4 on",500000)
+			else
+				macro = false
+				OutputLogMessage("M4 off\n")
+				OutputLCDMessage("M4 off",500000)
+			end
+			F_scr()
+		end
+
+
+		if (event == "G_PRESSED" and arg == groza__QT)	then
+			F_Release()
+			IsM16 = false
+			IsAK = false
+			IsM762 = false
+			IsAUG = false
+			IsUMP = false
+			IsVECTOR = false
+			IsGPP19 = false
+			IsQBZ = false
+			IsG36C = false	
+			IsM4 = false
+			if doubleclick then
+				IsGROZA = not IsGROZA
+			else
+				IsGROZA = true
+			end	
+			IsSCAR = false
+			IsFIRE = false
+			F_closex4()
+			if IsGROZA then
+				macro = true
+				OutputLogMessage("GROZA on\n")
+				OutputLCDMessage("GROZA on",500000)
+			else
+				macro = false
+				OutputLogMessage("GROZA off\n")
+				OutputLCDMessage("GROZA off",500000)
+			end
+			F_scr()
+		end
+
+
+		if (event == "G_PRESSED" and arg == aug__QT)	then
+			F_Release()
+			IsM16 = false
+			IsAK = false
+			IsM762 = false
+			IsM4 = false
+			IsGROZA = false
+			IsUMP = false
+			IsVECTOR = false
+			IsGPP19 = false
+			IsQBZ = false
+			IsG36C = false	
+			if doubleclick then
+				IsAUG = not IsAUG
+			else
+				IsAUG = true
+			end	
+			IsSCAR = false
+			IsFIRE = false
+			F_closex4()
+			if IsAUG then
+				macro = true
+				OutputLogMessage("AUG on\n")
+				OutputLCDMessage("AUG on",500000)
+			else
+				macro = false
+				OutputLogMessage("AUG off\n")
+				OutputLCDMessage("AUG off",500000)
+			end
+			F_scr()
+		end
+
+
+		if (event == "G_PRESSED" and arg == gpp19__QT)	then
+			F_Release()
+			IsM16 = false
+			IsAK = false
+			IsM762 = false
+			IsUMP = false
+			IsM4 = false
+			IsGROZA = false
+			IsAUG = false
+			IsVECTOR = false
+			IsQBZ = false
+			IsG36C = false
+			if doubleclick then
+				IsGPP19 = not IsGPP19
+			else
+				IsGPP19 = true
+			end
+			IsSCAR = false
+			IsFIRE = false
+			F_closex4()
+			if IsGPP19 then
+				macro = true
+				OutputLogMessage("GPP19 on\n")
+				OutputLCDMessage("GPP19 on",500000)
+			else
+				macro = false
+				OutputLogMessage("GPP19 off\n")
+				OutputLCDMessage("GPP19 off",500000)
+			end
+			F_scr()
+		end
+
+
+		if (event == "G_PRESSED" and arg == ump__QT)	then
+			F_Release()
+			IsM16 = false
+			IsAK = false
+			IsM762 = false
+			IsVECTOR = false
+			IsGPP19 = false
+			IsQBZ = false
+			IsM4 = false
+			IsGROZA = false
+			IsAUG = false
+			IsG36C = false
+			if doubleclick then
+				IsUMP = not IsUMP
+			else
+				IsUMP = true
+			end
+			IsSCAR = false
+			IsFIRE = false
+			F_closex4()
+			if IsUMP then
+				macro = true
+				OutputLogMessage("UMP on\n")
+				OutputLCDMessage("UMP on",500000)
+			else
+				macro = false
+				OutputLogMessage("UMP off\n")
+				OutputLCDMessage("UMP off",500000)
+			end
+			F_scr()
+		end
+
+
+		if (event == "G_PRESSED" and arg == vector__QT)	then
+			F_Release()
+			IsM16 = false
+			IsAK = false
+			IsGPP19 = false
+			IsM762 = false
+			IsQBZ = false
+			IsUMP = false
+			IsM4 = false
+			IsGROZA = false
+			IsAUG = false
+			IsG36C = false
+			if doubleclick then
+				IsVECTOR = not IsVECTOR
+			else
+				IsVECTOR = true
+			end
+			IsSCAR = false
+			IsFIRE = false
+			F_closex4()
+			if IsVECTOR then
+				macro = true
+				OutputLogMessage("VECTOR on\n")
+				OutputLCDMessage("VECTOR on",500000)
+			else
+				macro = false
+				OutputLogMessage("VECTOR off\n")
+				OutputLCDMessage("VECTOR off",500000)
+			end
+			F_scr()
+		end
+
+
+		if (event == "G_PRESSED" and arg == qbz__QT)	then
+			F_Release()
+			IsM16 = false
+			IsAK = false
+			IsM762 = false
+			IsVECTOR = false
+			IsGPP19 = false
+			IsUMP = false
+			IsG36C = false
+			IsM4 = false
+			IsGROZA = false
+			IsAUG = false
+			if doubleclick then
+				IsQBZ = not IsQBZ
+			else
+				IsQBZ = true
+			end
+			IsSCAR = false
+			IsFIRE = false
+			F_closex4()
+			if IsQBZ then
+				macro = true
+				OutputLogMessage("QBZ on\n")
+				OutputLCDMessage("QBZ on",500000)
+			else
+				macro = false
+				OutputLogMessage("QBZ off\n")
+				OutputLCDMessage("QBZ off",500000)
+			end
+			F_scr()
+		end
+
+
+		if (event == "G_PRESSED" and arg == g36c__QT)	then
+			F_Release()
+			IsM16 = false
+			IsAK = false
+			IsUMP = false
+			IsVECTOR = false
+			IsM762 = false
+			IsGPP19 = false
+			IsQBZ = false
+			IsM4 = false
+			IsGROZA = false
+			IsAUG = false
+			if doubleclick then
+				IsG36C = not IsG36C
+			else
+				IsG36C = true
+			end
+			IsSCAR = false
+			IsFIRE = false
+			F_closex4()
+			if IsG36C then
+				macro = true
+				OutputLogMessage("G36C on\n")
+				OutputLCDMessage("G36C on",500000)
+			else
+				macro = false
+				OutputLogMessage("G36C off\n")
+				OutputLCDMessage("G36C off",500000)
+			end
+			F_scr()
+		end
+
+
+
+		if (event == "G_PRESSED" and arg == scar__QT)	then
+			F_Release()
+			IsAK = false
+			IsM16 = false
+			IsM4 = false
+			IsGROZA = false
+			IsAUG = false
+			IsUMP = false
+			IsGPP19 = false
+			IsM762 = false
+			IsQBZ = false
+			IsVECTOR = false
+			IsG36C = false
+			if doubleclick then
+				IsSCAR = not IsSCAR
+			else
+				IsSCAR = true
+			end
+			IsFIRE = false
+			F_closex4()
+			if IsSCAR then
+				macro = true
+				OutputLogMessage("SCAR on\n")
+				OutputLCDMessage("SCAR on",500000)
+			else
+				macro = false
+				OutputLogMessage("SCAR off\n")
+				OutputLCDMessage("SCAR off",500000)
+			end
+			F_scr()
+		end
+
+
+		if (event == "G_PRESSED" and arg == m762__QT)	then
+			F_Release()
+			IsAK = false
+			IsM16 = false
+			IsGPP19 = false
+			IsM4 = false
+			IsGROZA = false
+			IsAUG = false
+			IsUMP = false
+			IsVECTOR = false
+			IsSCAR = false
+			IsQBZ = false
+			IsG36C = false
+			if doubleclick then
+				IsM762 = not IsM762
+			else
+				IsM762 = true
+			end
+			IsFIRE = false
+			F_closex4()
+			if IsM762 then
+				macro = true
+				OutputLogMessage("M762 on\n")
+				OutputLCDMessage("M762 on",500000)
+			else
+				macro = false
+				OutputLogMessage("M762 off\n")
+				OutputLCDMessage("M762 off",500000)
+			end
+			F_scr()
+		end
+
+		if (event == "G_PRESSED" and arg == close__QT)	then
+			F_Release()
+			F_closex4()
+			F_closex1()
+			macro = false
+			OutputLogMessage("all gun off\n")
+			OutputLCDMessage("all gun off",500000)
+			F_scr()
+		end
+
+
+
+if yzcakf then
+if (event == "MOUSE_BUTTON_PRESSED" and arg == 1 and macro and not IsModifierPressed(pausekey)and targetingkey==0 and IsMouseButtonPressed(3)) then
+go()				
+end
+else
+if (event == "MOUSE_BUTTON_PRESSED" and arg == 1 and macro and not IsModifierPressed(pausekey)and targetingkey==0 ) then
+go()			
+end
+end 		
+
+function go()
+if Holdbreathmode == 1 then
+				F_Holdbreathstart()
+			end
+			if (IsKeyLockOn(fourmodekey)	and fouron and IsModifierPressed(fourautokey) and not foutmodereversal) or (IsKeyLockOn(fourmodekey)	and fouron and not IsModifierPressed(fourautokey) and foutmodereversal) then
+				if IsAK then
+					F_ax4(akmx4)
+				elseif IsM16 then
+					F_ax4(m16x4)
+				elseif IsM4 then
+					F_ax4(m4x4)
+				elseif IsGROZA then
+					F_ax4(grozax4)
+				elseif IsAUG then
+					F_ax4(augx4)
+				elseif IsGPP19 then
+					F_ax4(gpp19x4)
+				elseif IsUMP then
+					F_ax4(umpx4)
+				elseif IsVECTOR then
+					F_ax4(vectorx4)
+				elseif IsM762 then
+					F_ax4(m762x4)
+				elseif IsQBZ then
+					F_ax4(qbzx4)
+				elseif IsG36C then
+					F_ax4(g36cx4)
+				elseif IsSCAR then
+					F_ax4(scarx4)
+				end
+			elseif (not IsKeyLockOn(fourmodekey) and IsModifierPressed(fourautokey)) then
+				if IsAKMX4 then
+					F_ax4(akmx4)
+				elseif IsM16X4 then
+					F_ax4(m16x4)
+				elseif IsM4X4 then
+					F_ax4(m4x4)
+				elseif IsGROZAX4 then
+					F_ax4(grozax4)
+				elseif IsAUGX4 then
+					F_ax4(augx4)
+				elseif IsGPP19X4 then
+					F_ax4(gpp19x4)
+				elseif IsUMPX4 then
+					F_ax4(umpx4)
+				elseif IsVECTORX4 then
+					F_ax4(vectorx4)
+				elseif IsM762X4 then
+					F_ax4(m762x4)
+				elseif IsQBZX4 then
+					F_ax4(qbzx4)
+				elseif IsG36CX4 then
+					F_ax4(g36cx4)
+				elseif IsSCARX4 then
+					F_ax4(scarx4)
+				else
+					PressMouseButton(1)
+					click = true
+					F_Holdbreathstop()
+					SetMKeyState(3)
+				end
+			else
+				PressMouseButton(1)
+				click = true
+				F_Holdbreathstop()
+				SetMKeyState(3)
+			end
+		end
+
+
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == targeting_key and targeting_key~=2) then
+			targetingkey=1
+		end
+		if (event == "MOUSE_BUTTON_RELEASED" and arg == targeting_key and targeting_key~=2) then
+			targetingkey=0
+		end
+		if (event == "MOUSE_BUTTON_PRESSED" and arg == 1 and not IsModifierPressed(pausekey) and targetingkey==1 and macro)	then
+			click = true
+			OutputLogMessage("targetingtart\n")
+			ReleaseMouseButton(1)
+			SetMKeyState(1)
+			
+		end
+		if (event == "M_RELEASED" and arg == 3 and click)	then
+			if IsAK then
+				F_akm()
+			elseif IsM16 then
+				F_m16()
+			elseif IsM762 then
+				F_m762()
+			elseif IsM4 then
+				F_m4()
+			elseif IsGROZA then
+				F_groza()
+			elseif IsAUG then
+				F_aug()
+			elseif IsGPP19 then
+				F_gpp19()
+			elseif IsUMP then
+				F_ump()
+			elseif IsVECTOR then
+				F_vector()
+ 			elseif IsQBZ then
+				F_qbz()
+ 			elseif IsG36C then
+				F_g36c()
+			elseif IsSCAR then
+				F_scar()
+			elseif IsFIRE then
+				F_fire()
+			elseif IsM16X4 then
+				F_m16of4()
+			elseif IsAKMX4 then
+				F_akmof4()
+			elseif IsM762X4 then
+				F_m762of4()
+			elseif IsM4X4 then
+				F_m4of4()
+			elseif IsGROZAX4 then
+				F_grozaof4()
+			elseif IsAUGX4 then
+				F_augof4()
+			elseif IsGPP19X4 then
+				F_gpp19of4()
+			elseif IsUMPX4 then
+				F_umpof4()
+			elseif IsVECTORX4 then
+				F_vectorof4()
+			elseif IsQBZX4 then
+				F_qnzof4()
+			elseif IsG36CX4 then
+				F_g36cof4()
+			elseif IsSCARX4 then
+				F_scarof4()
+			end
+		end
+		if (event == "M_RELEASED" and arg == 1 and click) 			then
+			F_targeting()
+		end
+		if (event == "MOUSE_BUTTON_RELEASED" and arg == 1)			then
+			if (Holdbreathkey == 1 and macro)					then
+				F_Holdbreathstart()
+			end
+			F_Stopclick()
+ 		end
+end
+
+function F_Holdbreathstart()
+	if (shift and macro and targetingkey == 0) then
+		if (IsKeyLockOn(fourmodekey)	and fouron) then
+			PressKey("lshift")
+			Holdbreathmode = 1
+			OutputLogMessage("Holdbreath=%d\n",Holdbreathmode)
+		end
+	end
+end
+function F_Holdbreathstop()
+	if (shift and macro and targetingkey == 0 and Holdbreathmode == 1) then
+		if (IsKeyLockOn(fourmodekey)	and fouron) then
+			ReleaseKey("lshift")
+			Holdbreathmode = 0
+			OutputLogMessage("Holdbreath=%d\n",Holdbreathmode)
+		end
+	end
+end
+function F_ax4(x)
+	PressMouseButton(1)
+	MoveMouseRelative(0, x/3)
+	Sleep(5)
+	ReleaseMouseButton(1)
+	MoveMouseRelative(0, x/3)
+	Sleep(5)
+	MoveMouseRelative(0, x/3)
+	Sleep(5)
+	MoveMouseRelative(0, x%3)
+	click = false end
+
+
+function F_reloading(x)
+	if auto_reloading then
+		if IsM16 then
+			needreloadingtime = 78*40
+		end
+		if IsAK then
+			needreloadingtime = 98*40
+		end
+		if IsM4 then
+			needreloadingtime = 78*40
+		end
+		if IsGROZA then
+			needreloadingtime = 78*40
+		end
+		if IsAUG then
+			needreloadingtime = 78*40
+		end
+		if IsUMP then
+			needreloadingtime = 78*40
+		end
+		if IsGPP19 then
+			needreloadingtime = 78*40
+		end
+		if IsVECTOR then
+			needreloadingtime = 78*40
+		end
+		 if IsQBZ then
+			needreloadingtime = 86*40
+		end
+		 if IsG36C then
+			needreloadingtime = 86*40
+		end
+		if IsSCAR then
+			needreloadingtime = 93*40
+		end
+		if IsM762 then
+			needreloadingtime = 80*40
+		end
+		if IsKNMB then
+			needreloadingtime = 00*2000
+		end
+		if x > needreloadingtime+100 then
+			PressAndReleaseKey("r")
+			OutputLogMessage("reloading\n")
+			Sleep(100)
+			F_Stopclick()
+		end
+	end
+end
+
+function F_m16()
+	ReleaseMouseButton(1)
+	if (IsKeyLockOn(fourmodekey) and fouron) then
+		if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+			if	mpM16ybx4[i]==0 then
+				F_Stopclick() return
+			end
+			if j==1 then
+				MoveMouseRelative(0,((mpM16ybx4[i])%(M16she/10))*ZM16*l4*MM16s)
+			end
+			MoveMouseRelative(0,((mpM16ybx4[i])/(M16she/10))*ZM16*l4*MM16s)
+			j=j+1
+			if j>(M16she/10) then
+				j=1
+				i=i+1
+			end
+			if (i>#mpM16ybx4)	then
+				i=#mpM16ybx4
+			end
+		else
+			if	M16ybx4[i]==0 then
+				F_Stopclick() return
+			end
+			if j==1 then
+				MoveMouseRelative(0,((M16ybx4[i])%(M16she/10))*ZM16*l4*M16s)
+			end
+			MoveMouseRelative(0,((M16ybx4[i])/(M16she/10))*ZM16*l4*M16s)
+			j=j+1
+			if j>(M16she/10) then
+				j=1
+				i=i+1
+			end
+			if (i>#M16ybx4)	then
+				i=#M16ybx4
+			end
+		end
+	else
+		if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+			if (IsModifierPressed("lshift") ) then
+				if	mpM16byb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((mpM16byb[i])%(M16she/10))*ZM16*PMM16)
+				end
+				MoveMouseRelative(0,((mpM16byb[i])/(M16she/10))*ZM16*PMM16)
+				j=j+1
+				if j>(M16she/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#mpM16byb)	then
+					i=#mpM16byb
+				end
+		
+			else
+				if	mpM16yb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((mpM16yb[i])%(M16she/10))*ZM16*MPM16)
+				end
+				MoveMouseRelative(0,((mpM16yb[i])/(M16she/10))*ZM16*MPM16)
+				j=j+1
+				if j>(M16she/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#mpM16yb)	then
+					i=#mpM16yb
+				end
+
+			end
+		else
+			if (IsModifierPressed("lshift") ) then
+				if	M16byb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((M16byb[i])%(M16she/10))*ZM16*PM16)
+				end
+				MoveMouseRelative(0,((M16byb[i])/(M16she/10))*ZM16*PM16)
+				j=j+1
+				if j>(M16she/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#M16byb)	then
+					i=#M16byb
+				end
+			else
+				if	M16yb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((M16yb[i])%(M16she/10))*ZM16*LPM16)
+				end
+				MoveMouseRelative(0,((M16yb[i])/(M16she/10))*ZM16*LPM16)
+				j=j+1
+				if j>(M16she/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#M16yb)	then
+					i=#M16yb
+				end
+			end
+		end
+	end
+	Sleep(10)
+	ShotTime=ShotTime+10
+	if ShotTime%m16ofclicktime==0 then
+		PressAndReleaseMouseButton(1)		
+	end
+	F_reloading(ShotTime)
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(3)
+	end
+end
+
+
+function F_m16of4()
+	ReleaseMouseButton(1)
+	if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+		if	mpM16yb[i]==0 then
+			F_Stopclick() return
+		end
+		if j==1 then
+			MoveMouseRelative(0,((mpM16yb[i])%(M16she/10))*ZM16*l4*MM16s)
+		end
+		MoveMouseRelative(0,((mpM16yb[i])/(M16she/10))*ZM16*l4*MM16s)
+		j=j+1
+		if j>(M16she/10) then
+			j=1
+			i=i+1
+		end
+		if (i>#mpM16yb)	then
+			i=#mpM16yb
+		end
+	else
+		if	M16yb[i]==0 then
+			F_Stopclick() return
+		end
+		if j==1 then
+			MoveMouseRelative(0,((M16yb[i])%(M16she/10))*ZM16*l4*M16s)
+		end
+		MoveMouseRelative(0,((M16yb[i])/(M16she/10))*ZM16*l4*M16s)
+		j=j+1
+		if j>(M16she/10) then
+			j=1
+			i=i+1
+		end
+		if (i>#M16yb)	then
+			i=#M16yb
+		end
+	end
+	Sleep(10)
+	ShotTime=ShotTime+10
+	if ShotTime%m16ofclicktime==0 then
+		PressAndReleaseMouseButton(1)		
+	end
+	F_reloading(ShotTime)
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(3)
+	end
+end
+
+
+
+
+function F_akm()
+	if (IsKeyLockOn(fourmodekey) and fouron) then
+		if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+			if	mpAKMybx4[i]==0 then
+				F_Stopclick() return
+			end
+			if j==1 then
+				MoveMouseRelative(0,((mpAKMybx4[i])%(AKMshe/10))*ZAKM*l4*MAKMs)
+			end
+			MoveMouseRelative(0,((mpAKMybx4[i])/(AKMshe/10))*ZAKM*l4*MAKMs)
+			j=j+1
+			if j>(AKMshe/10) then
+				j=1
+				i=i+1
+			end
+			if (i>#mpAKMybx4)	then
+				i=#mpAKMybx4
+			end
+
+		else
+			if	AKMybx4[i]==0 then
+				F_Stopclick() return
+			end
+			if j==1 then
+				MoveMouseRelative(0,((AKMybx4[i])%(AKMshe/10))*ZAKM*l4*AKMs)
+			end
+			MoveMouseRelative(0,((AKMybx4[i])/(AKMshe/10))*ZAKM*l4*AKMs)
+			j=j+1
+			if j>(AKMshe/10) then
+				j=1
+				i=i+1
+			end
+			if (i>#AKMybx4)	then
+				i=#AKMybx4
+			end
+
+		end
+	else
+		if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+			if (IsModifierPressed("lshift") ) then
+				if	mpAKMbyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((mpAKMbyb[i])%(AKMshe/10))*ZAKM*PMAKM)
+				end
+				MoveMouseRelative(0,((mpAKMbyb[i])/(AKMshe/10))*ZAKM*PMAKM)
+				j=j+1
+				if j>(AKMshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#mpAKMbyb)	then
+					i=#mpAKMbyb
+				end
+
+			else
+				if	mpAKMyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((mpAKMyb[i])%(AKMshe/10))*ZAKM*MPAKM)
+				end
+				MoveMouseRelative(0,((mpAKMyb[i])/(AKMshe/10))*ZAKM*MPAKM)
+				j=j+1
+				if j>(AKMshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#mpAKMyb)	then
+					i=#mpAKMyb
+				end
+
+			end
+		else
+			if (IsModifierPressed("lshift") ) then
+				if	AKMbyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((AKMbyb[i])%(AKMshe/10))*ZAKM*PAKM)
+				end
+				MoveMouseRelative(0,((AKMbyb[i])/(AKMshe/10))*ZAKM*PAKM)
+				j=j+1
+				if j>(AKMshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#AKMbyb)	then
+					i=#AKMbyb
+				end
+
+			else
+				if	AKMyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((AKMyb[i])%(AKMshe/10))*ZAKM*LPAKM )
+				end
+				MoveMouseRelative(0,((AKMyb[i])/(AKMshe/10))*ZAKM*LPAKM )
+				j=j+1
+				if j>(AKMshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#AKMyb)	then
+					i=#AKMyb
+				end
+
+			end
+		end
+	end
+	Sleep(10)
+	ShotTime=ShotTime+10
+	F_reloading(ShotTime)
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(3)
+	end
+end
+
+
+function F_akmof4()
+	if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+		if	mpAKMyb[i]==0 then
+			F_Stopclick() return
+		end
+		if j==1 then
+			MoveMouseRelative(0,((mpAKMyb[i])%(AKMshe/10))*ZAKM*l4*MAKMs)
+		end
+		MoveMouseRelative(0,((mpAKMyb[i])/(AKMshe/10))*ZAKM*l4*MAKMs)
+		j=j+1
+		if j>(AKMshe/10) then
+			j=1
+			i=i+1
+		end
+		if (i>#mpAKMyb)	then
+			i=#mpAKMyb
+		end
+
+	else
+		if	AKMyb[i]==0 then
+			F_Stopclick() return
+		end
+		if j==1 then
+			MoveMouseRelative(0,((AKMyb[i])%(AKMshe/10))*ZAKM*l4*AKMs)
+		end
+		MoveMouseRelative(0,((AKMyb[i])/(AKMshe/10))*ZAKM*l4*AKMs)
+		j=j+1
+		if j>(AKMshe/10) then
+			j=1
+			i=i+1
+		end
+		if (i>#AKMyb)	then
+			i=#AKMyb
+		end
+
+	end
+	Sleep(10)
+	ShotTime=ShotTime+10
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(3)
+	end
+end
+
+
+function F_m762()
+	if (IsKeyLockOn(fourmodekey) and fouron) then
+		if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+			if	mpM762ybx4[i]==0 then
+				F_Stopclick() return
+			end
+			if j==1 then
+				MoveMouseRelative(0,((mpM762ybx4[i])%(M762she/10))*ZM762*l4*MM762s)
+			end
+			MoveMouseRelative(0,((mpM762ybx4[i])/(M762she/10))*ZM762*l4*MM762s)
+			j=j+1
+			if j>(M762she/10) then
+				j=1
+				i=i+1
+			end
+			if (i>#mpM762ybx4)	then
+				i=#mpM762ybx4
+			end
+		else
+			if	M762ybx4[i]==0 then
+				F_Stopclick() return
+			end
+			if j==1 then
+				MoveMouseRelative(0,((M762ybx4[i])%(M762she/10))*ZM762*l4*M762s)
+			end
+			MoveMouseRelative(0,((M762ybx4[i])/(M762she/10))*ZM762*l4*M762s)
+			j=j+1
+			if j>(M762she/10) then
+				j=1
+				i=i+1
+			end
+			if (i>#M762ybx4)	then
+				i=#M762ybx4
+			end
+		end
+	else
+		if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+			if (IsModifierPressed("lshift") ) then
+				if	mpM762byb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((mpM762byb[i])%(M762she/10))*ZM762*PMM762)
+				end
+				MoveMouseRelative(0,((mpM762byb[i])/(M762she/10))*ZM762*PMM762)
+				j=j+1
+				if j>(M762she/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#mpM762byb)	then
+					i=#mpM762byb
+				end
+		
+			else
+				if	mpM762yb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((mpM762yb[i])%(M762she/10))*ZM762*MPM762)
+				end
+				MoveMouseRelative(0,((mpM762yb[i])/(M762she/10))*ZM762*MPM762)
+				j=j+1
+				if j>(M762she/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#mpM762yb)	then
+					i=#mpM762yb
+				end
+
+			end
+		else
+			if (IsModifierPressed("lshift") ) then
+				if	M762byb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((M762byb[i])%(M762she/10))*ZM762*PM762)
+				end
+				MoveMouseRelative(0,((M762byb[i])/(M762she/10))*ZM762*PM762)
+				j=j+1
+				if j>(M762she/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#M762byb)	then
+					i=#M762byb
+				end
+			else
+				if	M762yb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((M762yb[i])%(M762she/10))*ZM762*LPM762)
+				end
+				MoveMouseRelative(0,((M762yb[i])/(M762she/10))*ZM762*LPM762)
+				j=j+1
+				if j>(M762she/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#M762yb)	then
+					i=#M762yb
+				end
+			end
+		end
+	end
+	Sleep(10)
+	ShotTime=ShotTime+10
+	F_reloading(ShotTime)
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(3)
+	end
+end
+
+
+function F_m762of4()
+	if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+		if	mpM762yb[i]==0 then
+			F_Stopclick() return
+		end
+		if j==1 then
+			MoveMouseRelative(0,((mpM762yb[i])%(M762she/10))*ZM762*l4*MM762s)
+		end
+		MoveMouseRelative(0,((mpM762yb[i])/(M762she/10))*ZM762*l4*MM762s)
+		j=j+1
+		if j>(M762she/10) then
+			j=1
+			i=i+1
+		end
+		if (i>#mpM762yb)	then
+			i=#mpM762yb
+		end
+	else
+		if	M762yb[i]==0 then
+			F_Stopclick() return
+		end
+		if j==1 then
+			MoveMouseRelative(0,((M762yb[i])%(M762she/10))*ZM762*l4*M762s)
+		end
+		MoveMouseRelative(0,((M762yb[i])/(M762she/10))*ZM762*l4*M762s)
+		j=j+1
+		if j>(M762she/10) then
+			j=1
+			i=i+1
+		end
+		if (i>#M762yb)	then
+			i=#M762yb
+		end
+	end
+	Sleep(10)
+	ShotTime=ShotTime+10
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(3)
+	end
+end
+
+
+function F_m4()
+	if (IsKeyLockOn(fourmodekey) and fouron) then
+		if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+			if	mpM4ybx4[i]==0 then
+				F_Stopclick() return
+			end
+			if j==1 then
+				MoveMouseRelative(0,((mpM4ybx4[i])%(M4she/10))*ZM4*l4*MM4s)
+			end
+			MoveMouseRelative(0,((mpM4ybx4[i])/(M4she/10))*ZM4*l4*MM4s)
+			j=j+1
+			if j>(M4she/10) then
+				j=1
+				i=i+1
+			end
+			if (i>#mpM4ybx4)	then
+				i=#mpM4ybx4
+			end
+		else
+			if	M4ybx4[i]==0 then
+				F_Stopclick() return
+			end
+			if j==1 then
+				MoveMouseRelative(0,((M4ybx4[i])%(M4she/10))*ZM4*l4*M4s)
+			end
+			MoveMouseRelative(0,((M4ybx4[i])/(M4she/10))*ZM4*l4*M4s)
+			j=j+1
+			if j>(M4she/10) then
+				j=1
+				i=i+1
+			end
+			if (i>#M4ybx4)	then
+				i=#M4ybx4
+			end
+		end
+	else
+		if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+			if (IsModifierPressed("lshift") ) then
+				if	mpM4byb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((mpM4byb[i])%(M4she/10))*ZM4*PMM4)
+				end
+				MoveMouseRelative(0,((mpM4byb[i])/(M4she/10))*ZM4*PMM4)
+				j=j+1
+				if j>(M4she/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#mpM4byb)	then
+					i=#mpM4byb
+				end
+		
+			else
+				if	mpM4yb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((mpM4yb[i])%(M4she/10))*ZM4*MPM4)
+				end
+				MoveMouseRelative(0,((mpM4yb[i])/(M4she/10))*ZM4*MPM4)
+				j=j+1
+				if j>(M4she/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#mpM4yb)	then
+					i=#mpM4yb
+				end
+
+			end
+		else
+			if (IsModifierPressed("lshift") ) then
+				if	M4byb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((M4byb[i])%(M4she/10))*ZM4*PM4)
+				end
+				MoveMouseRelative(0,((M4byb[i])/(M4she/10))*ZM4*PM4)
+				j=j+1
+				if j>(M4she/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#M4byb)	then
+					i=#M4byb
+				end
+			else
+				if	M4yb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((M4yb[i])%(M4she/10))*ZM4*LPM4)
+				end
+				MoveMouseRelative(0,((M4yb[i])/(M4she/10))*ZM4*LPM4)
+				j=j+1
+				if j>(M4she/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#M4yb)	then
+					i=#M4yb
+				end
+			end
+		end
+	end
+	Sleep(10)
+	ShotTime=ShotTime+10
+	F_reloading(ShotTime)
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(3)
+	end
+end
+
+
+function F_m4of4()
+	if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+		if	mpM4yb[i]==0 then
+			F_Stopclick() return
+		end
+		if j==1 then
+			MoveMouseRelative(0,((mpM4yb[i])%(M4she/10))*ZM4*l4*MM4s)
+		end
+		MoveMouseRelative(0,((mpM4yb[i])/(M4she/10))*ZM4*l4*MM4s)
+		j=j+1
+		if j>(M4she/10) then
+			j=1
+			i=i+1
+		end
+		if (i>#mpM4yb)	then
+			i=#mpM4yb
+		end
+	else
+		if	M4yb[i]==0 then
+			F_Stopclick() return
+		end
+		if j==1 then
+			MoveMouseRelative(0,((M4yb[i])%(M4she/10))*ZM4*l4*M4s)
+		end
+		MoveMouseRelative(0,((M4yb[i])/(M4she/10))*ZM4*l4*M4s)
+		j=j+1
+		if j>(M4she/10) then
+			j=1
+			i=i+1
+		end
+		if (i>#M4yb)	then
+			i=#M4yb
+		end
+	end
+	Sleep(10)
+	ShotTime=ShotTime+10
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(3)
+	end
+end
+
+
+function F_groza()
+	if (IsKeyLockOn(fourmodekey) and fouron) then
+		if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+			if	mpGROZAybx4[i]==0 then
+				F_Stopclick() return
+			end
+			if j==1 then
+				MoveMouseRelative(0,((mpGROZAybx4[i])%(GROZAshe/10))*ZGROZA*l4*MGROZAs)
+			end
+			MoveMouseRelative(0,((mpGROZAybx4[i])/(GROZAshe/10))*ZGROZA*l4*MGROZAs)
+			j=j+1
+			if j>(GROZAshe/10) then
+				j=1
+				i=i+1
+			end
+			if (i>#mpGROZAybx4)	then
+				i=#mpGROZAybx4
+			end
+		else
+			if	GROZAybx4[i]==0 then
+				F_Stopclick() return
+			end
+			if j==1 then
+				MoveMouseRelative(0,((GROZAybx4[i])%(GROZAshe/10))*ZGROZA*l4*GROZAs)
+			end
+			MoveMouseRelative(0,((GROZAybx4[i])/(GROZAshe/10))*ZGROZA*l4*GROZAs)
+			j=j+1
+			if j>(GROZAshe/10) then
+				j=1
+				i=i+1
+			end
+			if (i>#GROZAybx4)	then
+				i=#GROZAybx4
+			end
+		end
+	else
+		if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+			if (IsModifierPressed("lshift") ) then
+				if	mpGROZAbyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((mpGROZAbyb[i])%(GROZAshe/10))*ZGROZA*PMGROZA)
+				end
+				MoveMouseRelative(0,((mpGROZAbyb[i])/(GROZAshe/10))*ZGROZA*PMGROZA)
+				j=j+1
+				if j>(GROZAshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#mpGROZAbyb)	then
+					i=#mpGROZAbyb
+				end
+		
+			else
+				if	mpGROZAyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((mpGROZAyb[i])%(GROZAshe/10))*ZGROZA*MPGROZA)
+				end
+				MoveMouseRelative(0,((mpGROZAyb[i])/(GROZAshe/10))*ZGROZA*MPGROZA)
+				j=j+1
+				if j>(GROZAshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#mpGROZAyb)	then
+					i=#mpGROZAyb
+				end
+
+			end
+		else
+			if (IsModifierPressed("lshift") ) then
+				if	GROZAbyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((GROZAbyb[i])%(GROZAshe/10))*ZGROZA*PGROZA)
+				end
+				MoveMouseRelative(0,((GROZAbyb[i])/(GROZAshe/10))*ZGROZA*PGROZA)
+				j=j+1
+				if j>(GROZAshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#GROZAbyb)	then
+					i=#GROZAbyb
+				end
+			else
+				if	GROZAyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((GROZAyb[i])%(GROZAshe/10))*ZGROZA*LPGROZA)
+				end
+				MoveMouseRelative(0,((GROZAyb[i])/(GROZAshe/10))*ZGROZA*LPGROZA)
+				j=j+1
+				if j>(GROZAshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#GROZAyb)	then
+					i=#GROZAyb
+				end
+			end
+		end
+	end
+	Sleep(10)
+	ShotTime=ShotTime+10
+	F_reloading(ShotTime)
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(3)
+	end
+end
+
+
+function F_grozaof4()
+	if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+		if	mpGROZAyb[i]==0 then
+			F_Stopclick() return
+		end
+		if j==1 then
+			MoveMouseRelative(0,((mpGROZAyb[i])%(GROZAshe/10))*ZGROZA*l4*MGROZAs)
+		end
+		MoveMouseRelative(0,((mpGROZAyb[i])/(GROZAshe/10))*ZGROZA*l4*MGROZAs)
+		j=j+1
+		if j>(GROZAshe/10) then
+			j=1
+			i=i+1
+		end
+		if (i>#mpGROZAyb)	then
+			i=#mpGROZAyb
+		end
+	else
+		if	GROZAyb[i]==0 then
+			F_Stopclick() return
+		end
+		if j==1 then
+			MoveMouseRelative(0,((GROZAyb[i])%(GROZAshe/10))*ZGROZA*l4*GROZAs)
+		end
+		MoveMouseRelative(0,((GROZAyb[i])/(GROZAshe/10))*ZGROZA*l4*GROZAs)
+		j=j+1
+		if j>(GROZAshe/10) then
+			j=1
+			i=i+1
+		end
+		if (i>#GROZAyb)	then
+			i=#GROZAyb
+		end
+	end
+	Sleep(10)
+	ShotTime=ShotTime+10
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(3)
+	end
+end
+
+
+function F_aug()
+	if (IsKeyLockOn(fourmodekey) and fouron) then
+		if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+			if	mpAUGybx4[i]==0 then
+				F_Stopclick() return
+			end
+			if j==1 then
+				MoveMouseRelative(0,((mpAUGybx4[i])%(AUGshe/10))*ZAUG*l4*MAUGs)
+			end
+			MoveMouseRelative(0,((mpAUGybx4[i])/(AUGshe/10))*ZAUG*l4*MAUGs)
+			j=j+1
+			if j>(AUGshe/10) then
+				j=1
+				i=i+1
+			end
+			if (i>#mpAUGybx4)	then
+				i=#mpAUGybx4
+			end
+		else
+			if	AUGybx4[i]==0 then
+				F_Stopclick() return
+			end
+			if j==1 then
+				MoveMouseRelative(0,((AUGybx4[i])%(AUGshe/10))*ZAUG*l4*AUGs)
+			end
+			MoveMouseRelative(0,((AUGybx4[i])/(AUGshe/10))*ZAUG*l4*AUGs)
+			j=j+1
+			if j>(AUGshe/10) then
+				j=1
+				i=i+1
+			end
+			if (i>#AUGybx4)	then
+				i=#AUGybx4
+			end
+		end
+	else
+		if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+			if (IsModifierPressed("lshift") ) then
+				if	mpAUGbyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((mpAUGbyb[i])%(AUGshe/10))*ZAUG*PMAUG)
+				end
+				MoveMouseRelative(0,((mpAUGbyb[i])/(AUGshe/10))*ZAUG*PMAUG)
+				j=j+1
+				if j>(AUGshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#mpAUGbyb)	then
+					i=#mpAUGbyb
+				end
+		
+			else
+				if	mpAUGyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((mpAUGyb[i])%(AUGshe/10))*ZAUG*MPAUG)
+				end
+				MoveMouseRelative(0,((mpAUGyb[i])/(AUGshe/10))*ZAUG*MPAUG)
+				j=j+1
+				if j>(AUGshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#mpAUGyb)	then
+					i=#mpAUGyb
+				end
+
+			end
+		else
+			if (IsModifierPressed("lshift") ) then
+				if	AUGbyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((AUGbyb[i])%(AUGshe/10))*ZAUG*PAUG)
+				end
+				MoveMouseRelative(0,((AUGbyb[i])/(AUGshe/10))*ZAUG*PAUG)
+				j=j+1
+				if j>(AUGshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#AUGbyb)	then
+					i=#AUGbyb
+				end
+			else
+				if	AUGyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((AUGyb[i])%(AUGshe/10))*ZAUG*LPAUG)
+				end
+				MoveMouseRelative(0,((AUGyb[i])/(AUGshe/10))*ZAUG*LPAUG)
+				j=j+1
+				if j>(AUGshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#AUGyb)	then
+					i=#AUGyb
+				end
+			end
+		end
+	end
+	Sleep(10)
+	ShotTime=ShotTime+10
+	F_reloading(ShotTime)
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(3)
+	end
+end
+
+
+function F_augof4()
+	if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+		if	mpAUGyb[i]==0 then
+			F_Stopclick() return
+		end
+		if j==1 then
+			MoveMouseRelative(0,((mpAUGyb[i])%(AUGshe/10))*ZAUG*l4*MAUGs)
+		end
+		MoveMouseRelative(0,((mpAUGyb[i])/(AUGshe/10))*ZAUG*l4*MAUGs)
+		j=j+1
+		if j>(AUGshe/10) then
+			j=1
+			i=i+1
+		end
+		if (i>#mpAUGyb)	then
+			i=#mpAUGyb
+		end
+	else
+		if	AUGyb[i]==0 then
+			F_Stopclick() return
+		end
+		if j==1 then
+			MoveMouseRelative(0,((AUGyb[i])%(AUGshe/10))*ZAUG*l4*AUGs)
+		end
+		MoveMouseRelative(0,((AUGyb[i])/(AUGshe/10))*ZAUG*l4*AUGs)
+		j=j+1
+		if j>(AUGshe/10) then
+			j=1
+			i=i+1
+		end
+		if (i>#AUGyb)	then
+			i=#AUGyb
+		end
+	end
+	Sleep(10)
+	ShotTime=ShotTime+10
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(3)
+	end
+end
+
+
+
+function F_gpp19()
+	if (IsKeyLockOn(fourmodekey) and fouron) then
+		if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+			if	mpGPP19ybx4[i]==0 then
+				F_Stopclick() return
+			end
+			if j==1 then
+				MoveMouseRelative(0,((mpGPP19ybx4[i])%(GPP19she/10))*ZGPP19*l4*MGPP19s)
+			end
+			MoveMouseRelative(0,((mpGPP19ybx4[i])/(GPP19she/10))*ZGPP19*l4*MGPP19s)
+			j=j+1
+			if j>(GPP19she/10) then
+				j=1
+				i=i+1
+			end
+			if (i>#mpGPP19ybx4)	then
+				i=#mpGPP19ybx4
+			end
+		else
+			if	GPP19ybx4[i]==0 then
+				F_Stopclick() return
+			end
+			if j==1 then
+				MoveMouseRelative(0,((GPP19ybx4[i])%(GPP19she/10))*ZGPP19*l4*GPP19s)
+			end
+			MoveMouseRelative(0,((GPP19ybx4[i])/(GPP19she/10))*ZGPP19*l4*GPP19s)
+			j=j+1
+			if j>(GPP19she/10) then
+				j=1
+				i=i+1
+			end
+			if (i>#GPP19ybx4)	then
+				i=#GPP19ybx4
+			end
+		end
+	else
+		if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+			if (IsModifierPressed("lshift") ) then
+				if	mpGPP19byb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((mpGPP19byb[i])%(GPP19she/10))*ZGPP19*PMGPP19)
+				end
+				MoveMouseRelative(0,((mpGPP19byb[i])/(GPP19she/10))*ZGPP19*PMGPP19)
+				j=j+1
+				if j>(GPP19she/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#mpGPP19byb)	then
+					i=#mpGPP19byb
+				end
+		
+			else
+				if	mpGPP19yb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((mpGPP19yb[i])%(GPP19she/10))*ZGPP19*MPGPP19)
+				end
+				MoveMouseRelative(0,((mpGPP19yb[i])/(GPP19she/10))*ZGPP19*MPGPP19)
+				j=j+1
+				if j>(GPP19she/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#mpGPP19yb)	then
+					i=#mpGPP19yb
+				end
+
+			end
+		else
+			if (IsModifierPressed("lshift") ) then
+				if	GPP19byb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((GPP19byb[i])%(GPP19she/10))*ZGPP19*PGPP19)
+				end
+				MoveMouseRelative(0,((GPP19byb[i])/(GPP19she/10))*ZGPP19*PGPP19)
+				j=j+1
+				if j>(GPP19she/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#GPP19byb)	then
+					i=#GPP19byb
+				end
+			else
+				if	GPP19yb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((GPP19yb[i])%(GPP19she/10))*ZGPP19*LPGPP19)
+				end
+				MoveMouseRelative(0,((GPP19yb[i])/(GPP19she/10))*ZGPP19*LPGPP19)
+				j=j+1
+				if j>(GPP19she/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#GPP19yb)	then
+					i=#GPP19yb
+				end
+			end
+		end
+	end
+	Sleep(10)
+	ShotTime=ShotTime+10
+	F_reloading(ShotTime)
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(3)
+	end
+end
+
+
+function F_gpp19of4()
+	if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+		if	mpGPP19yb[i]==0 then
+			F_Stopclick() return
+		end
+		if j==1 then
+			MoveMouseRelative(0,((mpGPP19yb[i])%(GPP19she/10))*ZGPP19*l4*MGPP19s)
+		end
+		MoveMouseRelative(0,((mpGPP19yb[i])/(GPP19she/10))*ZGPP19*l4*MGPP19s)
+		j=j+1
+		if j>(GPP19she/10) then
+			j=1
+			i=i+1
+		end
+		if (i>#mpGPP19yb)	then
+			i=#mpGPP19yb
+		end
+	else
+		if	GPP19yb[i]==0 then
+			F_Stopclick() return
+		end
+		if j==1 then
+			MoveMouseRelative(0,((GPP19yb[i])%(GPP19she/10))*ZGPP19*l4*GPP19s)
+		end
+		MoveMouseRelative(0,((GPP19yb[i])/(GPP19she/10))*ZGPP19*l4*GPP19s)
+		j=j+1
+		if j>(GPP19she/10) then
+			j=1
+			i=i+1
+		end
+		if (i>#GPP19yb)	then
+			i=#GPP19yb
+		end
+	end
+	Sleep(10)
+	ShotTime=ShotTime+10
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(3)
+	end
+end
+
+
+
+
+function F_ump()
+	if (IsKeyLockOn(fourmodekey) and fouron) then
+		if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+			if	mpUMPybx4[i]==0 then
+				F_Stopclick() return
+			end
+			if j==1 then
+				MoveMouseRelative(0,((mpUMPybx4[i])%(UMPshe/10))*ZUMP*l4*MUMPs)
+			end
+			MoveMouseRelative(0,((mpUMPybx4[i])/(UMPshe/10))*ZUMP*l4*MUMPs)
+			j=j+1
+			if j>(UMPshe/10) then
+				j=1
+				i=i+1
+			end
+			if (i>#mpUMPybx4)	then
+				i=#mpUMPybx4
+			end
+		else
+			if	UMPybx4[i]==0 then
+				F_Stopclick() return
+			end
+			if j==1 then
+				MoveMouseRelative(0,((UMPybx4[i])%(UMPshe/10))*ZUMP*l4*UMPs)
+			end
+			MoveMouseRelative(0,((UMPybx4[i])/(UMPshe/10))*ZUMP*l4*UMPs)
+			j=j+1
+			if j>(UMPshe/10) then
+				j=1
+				i=i+1
+			end
+			if (i>#UMPybx4)	then
+				i=#UMPybx4
+			end
+		end
+	else
+		if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+			if (IsModifierPressed("lshift") ) then
+				if	mpUMPbyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((mpUMPbyb[i])%(UMPshe/10))*ZUMP*PMUMP)
+				end
+				MoveMouseRelative(0,((mpUMPbyb[i])/(UMPshe/10))*ZUMP*PMUMP)
+				j=j+1
+				if j>(UMPshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#mpUMPbyb)	then
+					i=#mpUMPbyb
+				end
+		
+			else
+				if	mpUMPyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((mpUMPyb[i])%(UMPshe/10))*ZUMP*MPUMP)
+				end
+				MoveMouseRelative(0,((mpUMPyb[i])/(UMPshe/10))*ZUMP*MPUMP)
+				j=j+1
+				if j>(UMPshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#mpUMPyb)	then
+					i=#mpUMPyb
+				end
+
+			end
+		else
+			if (IsModifierPressed("lshift") ) then
+				if	UMPbyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((UMPbyb[i])%(UMPshe/10))*ZUMP*PUMP)
+				end
+				MoveMouseRelative(0,((UMPbyb[i])/(UMPshe/10))*ZUMP*PUMP)
+				j=j+1
+				if j>(UMPshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#UMPbyb)	then
+					i=#UMPbyb
+				end
+			else
+				if	UMPyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((UMPyb[i])%(UMPshe/10))*ZUMP*LPUMP)
+				end
+				MoveMouseRelative(0,((UMPyb[i])/(UMPshe/10))*ZUMP*LPUMP)
+				j=j+1
+				if j>(UMPshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#UMPyb)	then
+					i=#UMPyb
+				end
+			end
+		end
+	end
+	Sleep(10)
+	ShotTime=ShotTime+10
+	F_reloading(ShotTime)
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(3)
+	end
+end
+
+
+function F_umpof4()
+	if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+		if	mpUMPyb[i]==0 then
+			F_Stopclick() return
+		end
+		if j==1 then
+			MoveMouseRelative(0,((mpUMPyb[i])%(UMPshe/10))*ZUMP*l4*MUMPs)
+		end
+		MoveMouseRelative(0,((mpUMPyb[i])/(UMPshe/10))*ZUMP*l4*MUMPs)
+		j=j+1
+		if j>(UMPshe/10) then
+			j=1
+			i=i+1
+		end
+		if (i>#mpUMPyb)	then
+			i=#mpUMPyb
+		end
+	else
+		if	UMPyb[i]==0 then
+			F_Stopclick() return
+		end
+		if j==1 then
+			MoveMouseRelative(0,((UMPyb[i])%(UMPshe/10))*ZUMP*l4*UMPs)
+		end
+		MoveMouseRelative(0,((UMPyb[i])/(UMPshe/10))*ZUMP*l4*UMPs)
+		j=j+1
+		if j>(UMPshe/10) then
+			j=1
+			i=i+1
+		end
+		if (i>#UMPyb)	then
+			i=#UMPyb
+		end
+	end
+	Sleep(10)
+	ShotTime=ShotTime+10
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(3)
+	end
+end
+
+
+
+function F_vector()
+	if (IsKeyLockOn(fourmodekey) and fouron) then
+		if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+			if	mpVECTORybx4[i]==0 then
+				F_Stopclick() return
+			end
+			if j==1 then
+				MoveMouseRelative(0,((mpVECTORybx4[i])%(VECTORshe/10))*ZVECTOR*l4*MVECTORs)
+			end
+			MoveMouseRelative(0,((mpVECTORybx4[i])/(VECTORshe/10))*ZVECTOR*l4*MVECTORs)
+			j=j+1
+			if j>(VECTORshe/10) then
+				j=1
+				i=i+1
+			end
+			if (i>#mpVECTORybx4)	then
+				i=#mpVECTORybx4
+			end
+		else
+			if	VECTORybx4[i]==0 then
+				F_Stopclick() return
+			end
+			if j==1 then
+				MoveMouseRelative(0,((VECTORybx4[i])%(VECTORshe/10))*ZVECTOR*l4*VECTORs)
+			end
+			MoveMouseRelative(0,((VECTORybx4[i])/(VECTORshe/10))*ZVECTOR*l4*VECTORs)
+			j=j+1
+			if j>(VECTORshe/10) then
+				j=1
+				i=i+1
+			end
+			if (i>#VECTORybx4)	then
+				i=#VECTORybx4
+			end
+		end
+	else
+		if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+			if (IsModifierPressed("lshift") ) then
+				if	mpVECTORbyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((mpVECTORbyb[i])%(VECTORshe/10))*ZVECTOR*PMVECTOR)
+				end
+				MoveMouseRelative(0,((mpVECTORbyb[i])/(VECTORshe/10))*ZVECTOR*PMVECTOR)
+				j=j+1
+				if j>(VECTORshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#mpVECTORbyb)	then
+					i=#mpVECTORbyb
+				end
+		
+			else
+				if	mpVECTORyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((mpVECTORyb[i])%(VECTORshe/10))*ZVECTOR*MPVECTOR)
+				end
+				MoveMouseRelative(0,((mpVECTORyb[i])/(VECTORshe/10))*ZVECTOR*MPVECTOR)
+				j=j+1
+				if j>(VECTORshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#mpVECTORyb)	then
+					i=#mpVECTORyb
+				end
+
+			end
+		else
+			if (IsModifierPressed("lshift") ) then
+				if	VECTORbyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((VECTORbyb[i])%(VECTORshe/10))*ZVECTOR*PVECTOR)
+				end
+				MoveMouseRelative(0,((VECTORbyb[i])/(VECTORshe/10))*ZVECTOR*PVECTOR)
+				j=j+1
+				if j>(VECTORshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#VECTORbyb)	then
+					i=#VECTORbyb
+				end
+			else
+				if	VECTORyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((VECTORyb[i])%(VECTORshe/10))*ZVECTOR*LPVECTOR)
+				end
+				MoveMouseRelative(0,((VECTORyb[i])/(VECTORshe/10))*ZVECTOR*LPVECTOR)
+				j=j+1
+				if j>(VECTORshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#VECTORyb)	then
+					i=#VECTORyb
+				end
+			end
+		end
+	end
+	Sleep(10)
+	ShotTime=ShotTime+10
+	F_reloading(ShotTime)
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(3)
+	end
+end
+
+
+function F_vectorof4()
+	if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+		if	mpVECTORyb[i]==0 then
+			F_Stopclick() return
+		end
+		if j==1 then
+			MoveMouseRelative(0,((mpVECTORyb[i])%(VECTORshe/10))*ZVECTOR*l4*MVECTORs)
+		end
+		MoveMouseRelative(0,((mpVECTORyb[i])/(VECTORshe/10))*ZVECTOR*l4*MVECTORs)
+		j=j+1
+		if j>(VECTORshe/10) then
+			j=1
+			i=i+1
+		end
+		if (i>#mpVECTORyb)	then
+			i=#mpVECTORyb
+		end
+	else
+		if	VECTORyb[i]==0 then
+			F_Stopclick() return
+		end
+		if j==1 then
+			MoveMouseRelative(0,((VECTORyb[i])%(VECTORshe/10))*ZVECTOR*l4*VECTORs)
+		end
+		MoveMouseRelative(0,((VECTORyb[i])/(VECTORshe/10))*ZVECTOR*l4*VECTORs)
+		j=j+1
+		if j>(VECTORshe/10) then
+			j=1
+			i=i+1
+		end
+		if (i>#VECTORyb)	then
+			i=#VECTORyb
+		end
+	end
+	Sleep(10)
+	ShotTime=ShotTime+10
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(3)
+	end
+end
+
+
+
+function F_qbz()
+	if (IsKeyLockOn(fourmodekey) and fouron) then
+		if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+			if	mpQBZybx4[i]==0 then
+				F_Stopclick() return
+			end
+			if j==1 then
+				MoveMouseRelative(0,((mpQBZybx4[i])%(QBZshe/10))*ZQBZ*l4*MQBZs)
+			end
+			MoveMouseRelative(0,((mpQBZybx4[i])/(QBZshe/10))*ZQBZ*l4*MQBZs)
+			j=j+1
+			if j>(QBZshe/10) then
+				j=1
+				i=i+1
+			end
+			if (i>#mpQBZybx4)	then
+				i=#mpQBZybx4
+			end
+		else
+			if	QBZybx4[i]==0 then
+				F_Stopclick() return
+			end
+			if j==1 then
+				MoveMouseRelative(0,((QBZybx4[i])%(QBZshe/10))*ZQBZ*l4*QBZs)
+			end
+			MoveMouseRelative(0,((QBZybx4[i])/(QBZshe/10))*ZQBZ*l4*QBZs)
+			j=j+1
+			if j>(QBZshe/10) then
+				j=1
+				i=i+1
+			end
+			if (i>#QBZybx4)	then
+				i=#QBZybx4
+			end
+		end
+	else
+		if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+			if (IsModifierPressed("lshift") ) then
+				if	mpQBZbyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((mpQBZbyb[i])%(QBZshe/10))*ZQBZ*PMQBZ)
+				end
+				MoveMouseRelative(0,((mpQBZbyb[i])/(QBZshe/10))*ZQBZ*PMQBZ)
+				j=j+1
+				if j>(QBZshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#mpQBZbyb)	then
+					i=#mpQBZbyb
+				end
+		
+			else
+				if	mpQBZyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((mpQBZyb[i])%(QBZshe/10))*ZQBZ*MPQBZ)
+				end
+				MoveMouseRelative(0,((mpQBZyb[i])/(QBZshe/10))*ZQBZ*MPQBZ)
+				j=j+1
+				if j>(QBZshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#mpQBZyb)	then
+					i=#mpQBZyb
+				end
+
+			end
+		else
+			if (IsModifierPressed("lshift") ) then
+				if	QBZbyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((QBZbyb[i])%(QBZshe/10))*ZQBZ*PQBZ)
+				end
+				MoveMouseRelative(0,((QBZbyb[i])/(QBZshe/10))*ZQBZ*PQBZ)
+				j=j+1
+				if j>(QBZshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#QBZbyb)	then
+					i=#QBZbyb
+				end
+			else
+				if	QBZyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((QBZyb[i])%(QBZshe/10))*ZQBZ*LPQBZ)
+				end
+				MoveMouseRelative(0,((QBZyb[i])/(QBZshe/10))*ZQBZ*LPQBZ)
+				j=j+1
+				if j>(QBZshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#QBZyb)	then
+					i=#QBZyb
+				end
+			end
+		end
+	end
+	Sleep(10)
+	ShotTime=ShotTime+10
+	F_reloading(ShotTime)
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(3)
+	end
+end
+
+
+function F_qbzof4()
+	if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+		if	mpQBZyb[i]==0 then
+			F_Stopclick() return
+		end
+		if j==1 then
+			MoveMouseRelative(0,((mpQBZyb[i])%(QBZshe/10))*ZQBZ*l4*MQBZs)
+		end
+		MoveMouseRelative(0,((mpQBZyb[i])/(QBZshe/10))*ZQBZ*l4*MQBZs)
+		j=j+1
+		if j>(QBZshe/10) then
+			j=1
+			i=i+1
+		end
+		if (i>#mpQBZyb)	then
+			i=#mpQBZyb
+		end
+	else
+		if	QBZyb[i]==0 then
+			F_Stopclick() return
+		end
+		if j==1 then
+			MoveMouseRelative(0,((QBZyb[i])%(QBZshe/10))*ZQBZ*l4*QBZs)
+		end
+		MoveMouseRelative(0,((QBZyb[i])/(QBZshe/10))*ZQBZ*l4*QBZs)
+		j=j+1
+		if j>(QBZshe/10) then
+			j=1
+			i=i+1
+		end
+		if (i>#QBZyb)	then
+			i=#QBZyb
+		end
+	end
+	Sleep(10)
+	ShotTime=ShotTime+10
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(3)
+	end
+end
+
+
+
+function F_g36c()
+	if (IsKeyLockOn(fourmodekey) and fouron) then
+		if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+			if	mpG36Cybx4[i]==0 then
+				F_Stopclick() return
+			end
+			if j==1 then
+				MoveMouseRelative(0,((mpG36Cybx4[i])%(G36Cshe/10))*ZG36C*l4*MG36Cs)
+			end
+			MoveMouseRelative(0,((mpG36Cybx4[i])/(G36Cshe/10))*ZG36C*l4*MG36Cs)
+			j=j+1
+			if j>(G36Cshe/10) then
+				j=1
+				i=i+1
+			end
+			if (i>#mpG36Cybx4)	then
+				i=#mpG36Cybx4
+			end
+		else
+			if	G36Cybx4[i]==0 then
+				F_Stopclick() return
+			end
+			if j==1 then
+				MoveMouseRelative(0,((G36Cybx4[i])%(G36Cshe/10))*ZG36C*l4*G36Cs)
+			end
+			MoveMouseRelative(0,((G36Cybx4[i])/(G36Cshe/10))*ZG36C*l4*G36Cs)
+			j=j+1
+			if j>(G36Cshe/10) then
+				j=1
+				i=i+1
+			end
+			if (i>#G36Cybx4)	then
+				i=#G36Cybx4
+			end
+		end
+	else
+		if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+			if (IsModifierPressed("lshift") ) then
+				if	mpG36Cbyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((mpG36Cbyb[i])%(G36Cshe/10))*ZG36C*PMG36C)
+				end
+				MoveMouseRelative(0,((mpG36Cbyb[i])/(G36Cshe/10))*ZG36C*PMG36C)
+				j=j+1
+				if j>(G36Cshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#mpG36Cbyb)	then
+					i=#mpG36Cbyb
+				end
+		
+			else
+				if	mpG36Cyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((mpG36Cyb[i])%(G36Cshe/10))*ZG36C*MPG36C)
+				end
+				MoveMouseRelative(0,((mpG36Cyb[i])/(G36Cshe/10))*ZG36C*MPG36C)
+				j=j+1
+				if j>(G36Cshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#mpG36Cyb)	then
+					i=#mpG36Cyb
+				end
+
+			end
+		else
+			if (IsModifierPressed("lshift") ) then
+				if	G36Cbyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((G36Cbyb[i])%(G36Cshe/10))*ZG36C*PG36C)
+				end
+				MoveMouseRelative(0,((G36Cbyb[i])/(G36Cshe/10))*ZG36C*PG36C)
+				j=j+1
+				if j>(G36Cshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#G36Cbyb)	then
+					i=#G36Cbyb
+				end
+			else
+				if	G36Cyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((G36Cyb[i])%(G36Cshe/10))*ZG36C*LPG36C)
+				end
+				MoveMouseRelative(0,((G36Cyb[i])/(G36Cshe/10))*ZG36C*LPG36C)
+				j=j+1
+				if j>(G36Cshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#G36Cyb)	then
+					i=#G36Cyb
+				end
+			end
+		end
+	end
+	Sleep(10)
+	ShotTime=ShotTime+10
+	F_reloading(ShotTime)
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(3)
+	end
+end
+
+function F_g36cof4()
+	if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+		if	mpG36Cyb[i]==0 then
+			F_Stopclick() return
+		end
+		if j==1 then
+			MoveMouseRelative(0,((mpG36Cyb[i])%(G36Cshe/10))*ZG36C*l4*MG36Cs)
+		end
+		MoveMouseRelative(0,((mpG36Cyb[i])/(G36Cshe/10))*ZG36C*l4*MG36Cs)
+		j=j+1
+		if j>(G36Cshe/10) then
+			j=1
+			i=i+1
+		end
+		if (i>#mpG36Cyb)	then
+			i=#mpG36Cyb
+		end
+	else
+		if	G36Cyb[i]==0 then
+			F_Stopclick() return
+		end
+		if j==1 then
+			MoveMouseRelative(0,((G36Cyb[i])%(G36Cshe/10))*ZG36C*l4*G36Cs)
+		end
+		MoveMouseRelative(0,((G36Cyb[i])/(G36Cshe/10))*ZG36C*l4*G36Cs)
+		j=j+1
+		if j>(G36Cshe/10) then
+			j=1
+			i=i+1
+		end
+		if (i>#G36Cyb)	then
+			i=#G36Cyb
+		end
+	end
+	Sleep(10)
+	ShotTime=ShotTime+10
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(3)
+	end
+end
+
+
+function F_scar()
+	if (IsKeyLockOn(fourmodekey) and fouron) then
+		if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+			if	mpSARybx4[i]==0 then
+				F_Stopclick() return
+			end
+			if j==1 then
+				MoveMouseRelative(0,((mpSARybx4[i])%(SARshe/10))*ZSAR*l4*MSARs)
+			end
+			MoveMouseRelative(0,((mpSARybx4[i])/(SARshe/10))*ZSAR*l4*MSARs)
+			j=j+1
+			if j>(SARshe/10) then
+				j=1
+				i=i+1
+			end
+			if (i>#mpSARybx4)	then
+				i=#mpSARybx4
+			end
+		else
+			if	SARybx4[i]==0 then
+				F_Stopclick() return
+			end
+			if j==1 then
+				MoveMouseRelative(0,((SARybx4[i])%(SARshe/10))*ZSAR*l4*SARs)
+			end
+			MoveMouseRelative(0,((SARybx4[i])/(SARshe/10))*ZSAR*l4*SARs)
+			j=j+1
+			if j>(SARshe/10) then
+				j=1
+				i=i+1
+			end
+			if (i>#SARybx4)	then
+				i=#SARybx4
+			end
+		end
+	else
+		if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+			if (IsModifierPressed("lshift") ) then
+				if	mpSARbyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((mpSARbyb[i])%(SARshe/10))*ZSAR*PMSAR)
+				end
+				MoveMouseRelative(0,((mpSARbyb[i])/(SARshe/10))*ZSAR*PMSAR)
+				j=j+1
+				if j>(SARshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#mpSARbyb)	then
+					i=#mpSARbyb
+				end
+		
+			else
+				if	mpSARyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((mpSARyb[i])%(SARshe/10))*ZSAR*MPSAR)
+				end
+				MoveMouseRelative(0,((mpSARyb[i])/(SARshe/10))*ZSAR*MPSAR)
+				j=j+1
+				if j>(SARshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#mpSARyb)	then
+					i=#mpSARyb
+				end
+
+			end
+		else
+			if (IsModifierPressed("lshift") ) then
+				if	SARbyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((SARbyb[i])%(SARshe/10))*ZSAR*PSAR)
+				end
+				MoveMouseRelative(0,((SARbyb[i])/(SARshe/10))*ZSAR*PSAR)
+				j=j+1
+				if j>(SARshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#SARbyb)	then
+					i=#SARbyb
+				end
+			else
+				if	SARyb[i]==0 then
+					F_Stopclick() return
+				end
+				if j==1 then
+					MoveMouseRelative(0,((SARyb[i])%(SARshe/10))*ZSAR*LPSAR)
+				end
+				MoveMouseRelative(0,((SARyb[i])/(SARshe/10))*ZSAR*LPSAR)
+				j=j+1
+				if j>(SARshe/10) then
+					j=1
+					i=i+1
+				end
+				if (i>#SARyb)	then
+					i=#SARyb
+				end
+			end
+		end
+	end
+	Sleep(10)
+	ShotTime=ShotTime+10
+	F_reloading(ShotTime)
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(3)
+	end
+end
+function F_scarof4()
+	if (IsKeyLockOn(allmodekey) and allon and not allmodereversal) or (not IsKeyLockOn(allmodekey) and allon and allmodereversal) then
+		if	mpSARyb[i]==0 then
+			F_Stopclick() return
+		end
+		if j==1 then
+			MoveMouseRelative(0,((mpSARyb[i])%(SARshe/10))*ZSAR*l4*MSARs)
+		end
+		MoveMouseRelative(0,((mpSARyb[i])/(SARshe/10))*ZSAR*l4*MSARs)
+		j=j+1
+		if j>(SARshe/10) then
+			j=1
+			i=i+1
+		end
+		if (i>#mpSARyb)	then
+			i=#mpSARyb
+		end
+	else
+		if	SARyb[i]==0 then
+			F_Stopclick() return
+		end
+		if j==1 then
+			MoveMouseRelative(0,((SARyb[i])%(SARshe/10))*ZSAR*l4*SARs)
+		end
+		MoveMouseRelative(0,((SARyb[i])/(SARshe/10))*ZSAR*l4*SARs)
+		j=j+1
+		if j>(SARshe/10) then
+			j=1
+			i=i+1
+		end
+		if (i>#SARyb)	then
+			i=#SARyb
+		end
+	end
+	Sleep(10)
+	ShotTime=ShotTime+10
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(3)
+	end
+end
+
+function F_fire()
+	PressAndReleaseMouseButton(1)
+	Sleep(10)
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(3)
+	end
+end
+function F_targeting()
+	if IsM16 then
+		PressAndReleaseMouseButton(1)
+	end
+	if IsM16X4 then
+		PressAndReleaseMouseButton(1)
+	end
+
+	Sleep(9)
+	ShotTime = ShotTime + 7 
+	MoveMouseRelative(0, 2 )
+	if not click then
+		F_Stopclick()
+	elseif click then
+		SetMKeyState(1)
+	end
+end
+function F_Stopclick()
+	ReleaseMouseButton(1)
+	click = false
+	ShotTime = 0
+	i = 1
+	j = 1
+end
+function F_Release()
+	F_Stopclick()
+	ReleaseKey("lshift")
+	ReleaseMouseButton(1)
+end
+function F_closex1()
+	IsAKM = false
+	IsM762 = false
+	IsM16 = false
+	IsM4 = false
+	IsGROZA = false
+	IsAUG = false
+	IsUMP = false
+	IsGPP19 = false
+	IsVECTOR = false
+	IsQBZ = false
+	IsG36C = false
+	IsSCAR = false
+	IsFIRE = false
+end
+function F_closex4()
+	IsAKMX4 = false
+	IsM762X4 = false
+	IsM16X4 = false
+	IsM4X4 = false
+	IsGROZAX4 = false
+	IsAUGX4 = false
+	IsUMPX4 = false
+	IsGPP19X4 = false
+	IsVECTORX4 = false
+	IsQBZX4 = false
+	IsG36CX4 = false
+	IsSCARX4 = false
+end			
+function F_scr()		
+	if macro and not IsKeyLockOn(reminderlightkey) and lighton then
+		if IsModifierPressed("lctrl") then
+			PressAndReleaseKey("lctrl")
+		elseif IsModifierPressed("ctrl") then
+		elseif IsModifierPressed("rctrl") then
+			PressAndReleaseKey("rctrl")
+		end
+		PressAndReleaseKey(reminderlightkey)
+	end
+	if not macro and IsKeyLockOn(reminderlightkey) and lighton then
+		if IsModifierPressed("lctrl") then
+			PressAndReleaseKey("lctrl")
+		elseif IsModifierPressed("ctrl") then
+			PressAndReleaseKey("ctrl")
+		elseif IsModifierPressed("rctrl") then
+			PressAndReleaseKey("rctrl")
+		end
+		PressAndReleaseKey(reminderlightkey)
+ 	end 
+ 	if not macrostart then
+starttime = GetRunningTime() 
+macrostart = true
+	end
+end</script>
+  </profile>
+</profiles>
